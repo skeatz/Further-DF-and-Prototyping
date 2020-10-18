@@ -42,11 +42,11 @@ Assessment will be based on exercises and projects through three in-course asses
 
 *7. [3D Machining](files/07-3dmachining.md)*
 
-*8. [Molding & Casting](files/08-molding-casting.md)
+*8. [Molding & Casting](files/08-molding-casting.md)*
 
-*9. [Interface & Applications Programming](files/09-applications.md)
+*9. [Interface & Applications Programming](files/09-applications.md)*
 
-*10. [Introduction to IoT](files/10-iot.md)
+*10. [Introduction to IoT](files/10-iot.md)*
 
 *11. [Project](files/11-project.md)*
 
@@ -57,6 +57,6 @@ Assessment will be based on exercises and projects through three in-course asses
 
 *2. [Project Examples (MIT)](http://academy.cba.mit.edu/classes/project_development/index.html)*
 
-*3. [More Project Examples](files/more-examples.md)
+*3. [More Project Examples](files/more-examples.md)*
 
 *4. [Class](class/2020-S2/readme.md)*
