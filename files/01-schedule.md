@@ -5,7 +5,7 @@ AY2020/2021 S2 Schedule
 
 | Week | Date | Topic | Remarks |
 |:----:|:----:|-------|---------|
-| 01 | 19/10/20 | Introduction, Review of Digital Fabrication Skills |
+| 01 | 19/10/20 | [Introduction, Review of Digital Fabrication Skills](02-intro-review.md) |
 | 02 | 26/10/20 | Electronics Production | 
 | 03 | 02/11/20 | Electronics Design |
 | 04 | 09/11/20 | Embedded Programming | Deepavali 14 Nov |
@@ -20,7 +20,7 @@ AY2020/2021 S2 Schedule
 | 13 | 11/01/21 | Interface & Applications Programming |
 | 14 | 18/01/21 | Interface & Applications Programming |
 | 15 | 25/01/21 | Introduction to IoT |
-| 16 | 01/02/21 | Module Project | 
+| 16 | 01/02/21 | [Module Project](11-project.md) | 
 | 17 | 08/02/21 | Module Project | Chinese New Year 12 & 13 Feb |
 | 18 | 15/02/21 | Presentation |
 
