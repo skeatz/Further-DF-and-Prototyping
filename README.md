@@ -59,4 +59,4 @@ Assessment will be based on exercises and projects through three in-course asses
 
 *3. [More Project Examples](files/more-examples.md)*
 
-*4. [Class](class/2020-S2/readme.md)*
+*4. [Class](class/2020-S2/README.md)*
