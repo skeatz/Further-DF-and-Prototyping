@@ -1,6 +1,6 @@
 ## Student Personal Websites
 
-- [Rachel Cheng]()
+- [Rachel Cheng](https://raeyyyychael.github.io/EP1001/)
 
 - [Gabriel Asaween]()
 
@@ -8,7 +8,7 @@
 
 - [Voo Zhan Li]()
 
-- [Christopher Teng]()
+- [Christopher Teng](https://eatpoopandgrowstrong.github.io/hub/)
 
 - [Mason Goh]()
 
