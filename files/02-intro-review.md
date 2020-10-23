@@ -43,3 +43,13 @@
   - [Smart Ambience Lighting](http://archive.fabacademy.org/fabacademy2017/fablabsingapore/students/135/presentation.mp4)
   - [Smart Earrings](http://fab.academany.org/2020/labs/kamakura/students/toshiki-tsuchiyama/presentation.mp4)
   
+## Assignment
+Create the github repository and website for this module and pm the link for your website to me Telegram  group:
+1. Create the github repository for this module.
+2. Create a basic website for the module. Your website must meet the following requirements:
+   - be hosted on github
+   - has a navigation (nav) structure
+   - has an about page
+   - separate pages with links for module topics
+ 
+ You are expected to update your website documentation as the module progresses, not towards the end of the module. Mantra for this module: **Document as you go along**
