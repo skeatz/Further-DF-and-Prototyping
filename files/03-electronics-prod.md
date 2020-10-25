@@ -55,13 +55,13 @@
 ## breadboards
 
 ## assembly
-- solder
-- eutectic
-- wetting
+- [solder](https://www.digikey.com/en/products/filter/soldering-desoldering-rework-products/262)
+- [eutectic](https://fctsolder.com/eutectic-solder/)
+- [wetting](https://www.circuitrework.com/guides/7-1-1.html)
 - flux paste, pen
 - wire, paste, bar
-- manual, drag, reflow, wave
-  - ROHS lead-free
+- manual, [drag](https://www.youtube.com/watch?v=wUyetZ5RtPs), [reflow](https://www.youtube.com/watch?v=gu0v8lfLcKg), [wave](https://en.wikipedia.org/wiki/Wave_soldering)
+  - [ROHS](http://ec.europa.eu/environment/waste/rohs_eee/index_en.htm) [lead-free](https://www.digikey.com/en/products/detail/chip-quik-inc/SMDSWLF-020-4OZ/2177058) [why lead-free](https://falconerelectronics.com/lead-free-leaded-solder-difference/)
 - stuffing
   - component orientation
   - tacking down parts
