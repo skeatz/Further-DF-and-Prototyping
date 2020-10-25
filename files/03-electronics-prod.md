@@ -12,46 +12,45 @@
       - US: [0.010, 1/64, 1/32](https://www.precisebits.com/products/carbidebits/precisebit-stub.asp)
       - Metric: [0.25mm, 0.4mm, 0.8mm](https://www.aliexpress.com/item/4000742206744.html?spm=a2g0o.search0303.0.0.79a54579aaGsJT&algo_pvid=30027324-f6c4-48d1-aea6-52a1ca296834&algo_expid=30027324-f6c4-48d1-aea6-52a1ca296834-8&btsid=0bb0624116036248349635672e19ec&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
       - [V-bits](https://www.aliexpress.com/item/32959716123.html?spm=a2g0o.detail.1000014.27.a0a4663eFDrF81&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.14976.194266.0&scm_id=1007.14976.194266.0&scm-url=1007.14976.194266.0&pvid=c6e7ceff-1e44-4cf0-9820-bcb9c6187503&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.14976.194266.0,pvid:c6e7ceff-1e44-4cf0-9820-bcb9c6187503,tpp_buckets:668%230%23131923%2395_668%23808%234094%23317_668%23888%233325%2310_4976%230%23194266%238_4976%232711%237538%23182_4976%233104%239653%234_4976%234052%2318550%2321_4976%233141%239887%235_668%234328%2319931%23459_668%232846%238111%23453_668%232717%237559%2384_668%231000022185%231000066059%230_668%233422%2315392%23431_4452%230%23189847%230_4452%233474%2315675%23241_4452%233098%239599%23465_4452%233564%2316062%23633)
-   - fixturing
-   - sacrificial layer
+   - fixturing: clamps, double-sided tape
+   - [underlay](http://www.ysbackupboard.com/product/underlaymaterial.html)
    - orientation
    - zeroing
    - lifetime (of endmill)
    - deburring
    - cleaning
-   - climb vs conventional machining
-- vinyl cutter flex connections encapsulation milling
-- laser cutter
-- printing
-- plating
-- sewing
+   - [climb vs conventional machining](https://vivadifferences.com/climb-milling-vs-conventional-milling/)
+- [vinyl cutter](http://fab.cba.mit.edu/classes/863.17/Harvard/people/HonghaoDeng/project-3/project-3.html) [flex](http://fab.cba.mit.edu/classes/863.17/Harvard/people/HonghaoDeng/project-9/project-9.html) [connections](http://fab.cba.mit.edu/classes/863.17/CBA/people/tomasero/index.html) [encapsulation](http://fab.cba.mit.edu/classes/863.18/Harvard/people/victoria/week_04.html)
+- [laser cutter](http://fabacademy.org/archives/2015/doc/fiber-laser-cutting-pcb.html)
+- [printing](http://fab.cba.mit.edu/classes/863.19/CBA/people/joaowilbert/week6/)
+- [sewing](http://cba.mit.edu/docs/papers/00.07.E-broidery.pdf)
 
 ## PCB materials
 - rigid
-  - FR4 (epoxy glass)
-  - FR1 (phenolic paper)
+  - [FR4 (epoxy glass)](https://www.mclpcb.com/fr4-guide/)
+  - [FR1 (phenolic paper)](http://www.bestpcbs.com/blog/2016/08/whats-the-difference-for-fr1-fr2-fr3-and-fr4-materials/)
 - flex
-  - Kapton, Pyralux
-  - #1 epoxy film, #1126 copper tape
+  - [Kapton](https://www.dupont.com/electronic-materials/polyimide-films.html), ]Pyralux](https://www.dupont.com/products/pyralux-lf.html)
+  - [#1 epoxy film](http://multimedia.3m.com/mws/media/37468O/3m-epoxy-film-electrical-tape-1.pdf), [#1126 copper tape](http://multimedia.3m.com/mws/media/104361O/tape-1126-copper-foil-with-conductive-adhesive.pdf)
 - copper
   - 0.5 oz: 17.5 um
   - 1.0 oz: 35 um
   - 2.0 oz: 70 um
 
 ## board houses
-- Seeed, PCBWay, JLCPCB,
+- [Seeed](https://www.seeedstudio.com/fusion.html), [PCBWay](https://www.pcbway.com/), [JLCPCB](https://jlcpcb.com/)
 - design rules
   - width/spacing (15, 25 mils)
 - layers
-  - 1, 1.5, 2, 2+, 4, N
-- mechanical, drill, solder mask, silk screen
+  - [1](http://www.electronicsandyou.com/blog/single-sided-pcb.html), [2](http://www.electronicsandyou.com/blog/double-sided-pcb.html), [multi-layer](http://www.electronicsandyou.com/blog/multilayer-pcb.html)
+- [mechanical, drill, solder mask, silk screen](https://learn.sparkfun.com/tutorials/pcb-basics/all)
   - vias
   - rivets, plated, blind, buried
 
 ## components
-- through-hole
-- surface-mount
-- chip-scale
+- [through-hole](https://www.build-electronic-circuits.com/through-hole-components/)
+- [surface-mount](https://www.techopedia.com/definition/18622/chip-scale-package-csp)
+- [chip-scale](https://www.techopedia.com/definition/18622/chip-scale-package-csp)
 
 ## breadboards
 
