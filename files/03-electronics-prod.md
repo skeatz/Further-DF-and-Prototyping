@@ -20,7 +20,7 @@
    - deburring
    - cleaning
    - [climb vs conventional machining](https://vivadifferences.com/climb-milling-vs-conventional-milling/)
-- [vinyl cutter](http://fab.cba.mit.edu/classes/863.17/Harvard/people/HonghaoDeng/project-3/project-3.html) [flex](http://fab.cba.mit.edu/classes/863.17/Harvard/people/HonghaoDeng/project-9/project-9.html) [connections](http://fab.cba.mit.edu/classes/863.17/CBA/people/tomasero/index.html) [encapsulation](http://fab.cba.mit.edu/classes/863.18/Harvard/people/victoria/week_04.html)
+- [vinyl cutter](http://fab.cba.mit.edu/classes/863.17/Harvard/people/HonghaoDeng/project-3/project-3.html) [flex](http://fab.cba.mit.edu/classes/863.17/Harvard/people/HonghaoDeng/project-9/project-9.html) [encapsulation](http://fab.cba.mit.edu/classes/863.18/Harvard/people/victoria/week_04.html)
 - [laser cutter](http://fabacademy.org/archives/2015/doc/fiber-laser-cutting-pcb.html)
 - [printing](http://fab.cba.mit.edu/classes/863.19/CBA/people/joaowilbert/week6/)
 - [sewing](http://cba.mit.edu/docs/papers/00.07.E-broidery.pdf)
@@ -73,7 +73,7 @@
   - vacuum
   - hot air
   - gravity
-- cutting traces, adding jumpers
+- [cutting traces, adding jumpers](http://fab.cba.mit.edu/classes/863.17/CBA/people/tomasero/index.html)
 - pick-and-place
 - encapsulation
 
