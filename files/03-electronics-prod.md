@@ -68,14 +68,14 @@
   - bottom to top, inside to outside
   - fumes
   - washing
-- desoldering
-  - braid
-  - vacuum
-  - hot air
+- [desoldering](https://www.youtube.com/watch?v=Z38WsZFmq8E)
+  - [braid](https://youtu.be/Z38WsZFmq8E?t=79)
+  - [vacuum](https://youtu.be/Z38WsZFmq8E?t=176)
+  - [hot air](https://www.youtube.com/watch?v=77JgIqraX_I)
   - gravity
 - [cutting traces, adding jumpers](http://fab.cba.mit.edu/classes/863.17/CBA/people/tomasero/index.html)
-- pick-and-place
-- encapsulation
+- [pick-and-place](https://www.boarditto.com/)
+- [encapsulation](https://www.youtube.com/watch?v=pExbK1EE92U)
 
 ## CAM
 - formats
