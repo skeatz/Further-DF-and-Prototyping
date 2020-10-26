@@ -44,7 +44,7 @@
   - [FR4 (epoxy glass)](https://www.mclpcb.com/fr4-guide/)
   - [FR1 (phenolic paper)](http://www.bestpcbs.com/blog/2016/08/whats-the-difference-for-fr1-fr2-fr3-and-fr4-materials/)
 - flex
-  - [Kapton](https://www.dupont.com/electronic-materials/polyimide-films.html), ]Pyralux](https://www.dupont.com/products/pyralux-lf.html)
+  - [Kapton](https://www.dupont.com/electronic-materials/polyimide-films.html), [Pyralux](https://www.dupont.com/products/pyralux-lf.html)
   - [#1 epoxy film](http://multimedia.3m.com/mws/media/37468O/3m-epoxy-film-electrical-tape-1.pdf), [#1126 copper tape](http://multimedia.3m.com/mws/media/104361O/tape-1126-copper-foil-with-conductive-adhesive.pdf)
 - copper
   - 0.5 oz: 17.5 um
@@ -104,6 +104,7 @@
   - [video](http://academy.cba.mit.edu/classes/electronics_production/mods.mp4)
 - trace width
   - [traces](http://academy.cba.mit.edu/classes/electronics_production/linetest.png) [board outline](http://academy.cba.mit.edu/classes/electronics_production/linetest.interior.png) 1/64" 0.010" [fiber laser](http://academy.cba.mit.edu/classes/electronics_production/fiber.jpg)
+  - traces (metric): 0.4mm, 0.8mm
 - gcode viewers
   - [camotics](https://camotics.org/)
   - [ncviewer](https://ncviewer.com/)
@@ -116,4 +117,4 @@
   - make an [in-circuit programmer](http://academy.cba.mit.edu/classes/embedded_programming/index.html#programmers) by milling and stuffing the PCB,
   - test it
   - [ISP Programmer Example](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/index.html)
-  - FTDI example: [trace](images/02_ch330-ftdi_traces.png) [outline](images/02_ch330-ftdi_outline.png)
+  - FTDI example: [trace](../images/02_ch330-ftdi_traces.png) [outline](../images/02_ch330-ftdi_outline.png)
