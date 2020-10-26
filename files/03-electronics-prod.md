@@ -1,4 +1,18 @@
 # Electronics Production
+## Skills
+- making PCB
+- operating a CNC machine
+- populating (stuffing) a PCB
+- soldering
+- testing PCB
+
+## Why make PCBs?
+- customized electronics to meet product requirements
+- customized footprint for product
+- greater reliability
+- ability to prototype & iterate faster
+- better product integration
+
 ## PCB fabrication
 - etching
   - [lithography](https://www.4pcb.com/media/presentation-how-to-build-pcb.pdf), [transfer](https://hackaday.com/2016/09/12/take-your-pcbs-from-good-to-great-toner-transfer/)
@@ -52,7 +66,9 @@
 - [surface-mount](https://www.techopedia.com/definition/18622/chip-scale-package-csp)
 - [chip-scale](https://www.techopedia.com/definition/18622/chip-scale-package-csp)
 
-## breadboards
+## breadboards & other alternatives
+- [(solderless) breadboard](https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard)
+- [stripboard, veroboard](https://www.electronicsclub.info/stripboard.htm), [software](https://www.electroschematics.com/veroboard-design-software/)
 
 ## assembly
 - [solder](https://www.digikey.com/en/products/filter/soldering-desoldering-rework-products/262)
@@ -79,17 +95,25 @@
 
 ## CAM
 - formats
-  - Gerber/RS-274X
-  - png resolution
-- FlatCAM
-- mods community
-  - video
+  - [Gerber/RS-274X](https://www.vse.com/blog/2019/10/29/gerber-files-explained-understanding-their-role-in-pcb-manufacturing/)
+  - [png](https://whatis.techtarget.com/definition/PNG-Portable-Network-Graphics) resolution
+  - [gcode](https://www.autodesk.com/products/fusion-360/blog/cnc-programming-fundamentals-g-code-2020-update/)
+- [FlatCAM](http://flatcam.org/)
+- [Carbide 3D](https://carbide3d.com/apps/pcb/)
+- [mods](http://mods.cba.mit.edu/) [community](https://fabfoundation.github.io/mods/)
+  - [video](http://academy.cba.mit.edu/classes/electronics_production/mods.mp4)
 - trace width
-  - traces interior 1/64" 0.010" fiber laser
-   
+  - [traces](http://academy.cba.mit.edu/classes/electronics_production/linetest.png) [board outline](http://academy.cba.mit.edu/classes/electronics_production/linetest.interior.png) 1/64" 0.010" [fiber laser](http://academy.cba.mit.edu/classes/electronics_production/fiber.jpg)
+- gcode viewers
+  - [camotics](https://camotics.org/)
+  - [ncviewer](https://ncviewer.com/)
+
 ## assignment
 - group assignment:
-  - characterize the design rules for your PCB production process
+  - characterize the design rules for your PCB production process, i.e. what is the useable minimum tracewidth for your PCB production process?
+  - [Group Assignment Example](http://fab.academany.org/2020/labs/singapore/group.assignments/assignment02.html)
 - individual assignment:
-  - make an in-circuit programmer by milling and stuffing the PCB,
-  - test it, then optionally try other PCB processes
+  - make an [in-circuit programmer](http://academy.cba.mit.edu/classes/embedded_programming/index.html#programmers) by milling and stuffing the PCB,
+  - test it
+  - [ISP Programmer Example](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/index.html)
+  - FTDI example: [trace](images/02_ch330-ftdi_traces.png) [outline](images/02_ch330-ftdi_outline.png)
