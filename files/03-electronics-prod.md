@@ -118,3 +118,9 @@
   - test it
   - [ISP Programmer Example](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/index.html)
   - FTDI example: [trace](../images/02_ch330-ftdi_traces.png) [outline](../images/02_ch330-ftdi_outline.png)
+
+## assignment (reference)
+- [Lucas](http://fab.academany.org/2020/labs/singapore/students/enghwalucas-lim/week4.html)
+- [Ting KE](http://fab.academany.org/2020/labs/singapore/students/engting-kok/exercise04.html)
+- [Noel](http://fab.academany.org/2020/labs/singapore/students/noel-kristian/exercise04.html)
+- [Yeo GS](http://fab.academany.org/2020/labs/singapore/students/gausiong-yeo/exercise04.html)
