@@ -58,4 +58,13 @@
   - make it
   - test it
 
-## sample assignment
+## Echo Hello World Boards
+- ATtiny45: [schematic]() [board](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.jpg)
+- ATtiny44: [schematic]() [board](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.components.jpg)
+- ATtiny412: [schematic]() [board](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.jpg)
+
+## assignment (reference)
+- [Lucas](http://fab.academany.org/2020/labs/singapore/students/enghwalucas-lim/week6.html)
+- [Ting KE](http://fab.academany.org/2020/labs/singapore/students/engting-kok/exercise06.html)
+- [Noel](http://fab.academany.org/2020/labs/singapore/students/noel-kristian/exercise06.html)
+- [Yeo GS](http://fab.academany.org/2020/labs/singapore/students/gausiong-yeo/exercise06.html)
