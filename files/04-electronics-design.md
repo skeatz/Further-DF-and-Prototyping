@@ -8,7 +8,7 @@
     - [standard values](https://www.electronics-notes.com/articles/electronic_components/resistors/standard-resistor-values-e-series-e3-e6-e12-e24-e48-e96.php)
   - capacitor: C = Q/V, I = C dV/dt
     - [unpolarized](http://www.digikey.com/product-detail/en/C3216X7R1H105K/445-1423-1-ND/569089)
-    - [polarized](http://www.digikey.com/product-search/en/capacitors/electric-double-layer-capacitors-supercaps/131084?k=589-1002-ND)
+    - [polarized](https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEE-1EA100WR/766062)
   - [crystal](http://www.digikey.com/product-detail/en/NX5032GA-20.000000MHZ-LN-CD-1/644-1039-1-ND/1128911), [resonator](http://www.digikey.com/product-detail/en/ECS-CR2-20.00-B-TR/XC1109CT-ND/813347)
   - [inductor](http://www.digikey.com/product-detail/en/ELL-CTV100M/PCD2152CT-ND/822226): V = L dI/dt
   - diode: current from anode to cathode
@@ -16,6 +16,7 @@
     - [Schottky](http://www.digikey.com/product-detail/en/BAT46ZFILM/497-5559-1-ND/1207051)
     - [Zener](http://www.digikey.com/product-detail/en/BZT52C3V3-7-F/BZT52C3V3-FDICT-ND/717854)
     - [LED](http://www.digikey.com/product-detail/en/LTST-C150CKT/160-1167-1-ND/269239)
+    - [RGB LED](https://www.digikey.com/en/products/detail/sunled/XZM2CRKM2DGFBB45SCCB/5001282)
   - transistor
     - bipolar: collector, emitter, base current gain
     - [mosfet](http://www.digikey.com/product-detail/en/NDS355AN/NDS355ANCT-ND/459000): source, drain, gate resistance
@@ -51,7 +52,7 @@
 - [How to create SMD-based PCBs](https://learn.sparkfun.com/tutorials/designing-pcbs-advanced-smd)
 
 ## assignment
-- redraw an echo hello-world board
+- redraw an [echo hello-world board](http://academy.cba.mit.edu/classes/embedded_programming/index.html#echo)
   - add (at least) a button and an LED (with current limiting resistor)
   - check the design rules (ERC, DRC)
   - make it
