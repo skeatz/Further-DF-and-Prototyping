@@ -100,7 +100,7 @@
   - [gcode](https://www.autodesk.com/products/fusion-360/blog/cnc-programming-fundamentals-g-code-2020-update/)
 - [FlatCAM](http://flatcam.org/)
 - [Carbide 3D](https://carbide3d.com/apps/pcb/)
-- [mods](http://mods.cba.mit.edu/) [community](https://fabfoundation.github.io/mods/)
+- [mods](https://skeatz.github.io/mods/) [community](https://fabfoundation.github.io/mods/)
   - [video](http://academy.cba.mit.edu/classes/electronics_production/mods.mp4)
 - trace width
   - [traces](http://academy.cba.mit.edu/classes/electronics_production/linetest.png) [board outline](http://academy.cba.mit.edu/classes/electronics_production/linetest.interior.png) 1/64" 0.010" [fiber laser](http://academy.cba.mit.edu/classes/electronics_production/fiber.jpg)
