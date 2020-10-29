@@ -66,5 +66,3 @@
 ## assignment (reference)
 - [Lucas](http://fab.academany.org/2020/labs/singapore/students/enghwalucas-lim/week6.html)
 - [Ting KE](http://fab.academany.org/2020/labs/singapore/students/engting-kok/exercise06.html)
-- [Noel](http://fab.academany.org/2020/labs/singapore/students/noel-kristian/exercise06.html)
-- [Yeo GS](http://fab.academany.org/2020/labs/singapore/students/gausiong-yeo/exercise06.html)
