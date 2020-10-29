@@ -69,6 +69,7 @@
 ## breadboards & other alternatives
 - [(solderless) breadboard](https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard)
 - [stripboard, veroboard](https://www.electronicsclub.info/stripboard.htm), [software](https://www.electroschematics.com/veroboard-design-software/)
+- [perfboard](https://sfxpcb.com/how-to-use-perfboard-without-copper/)
 
 ## assembly
 - [solder](https://www.digikey.com/en/products/filter/soldering-desoldering-rework-products/262)
