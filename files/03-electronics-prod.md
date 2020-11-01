@@ -129,6 +129,13 @@
 | Traces | 0.1 mm 30 deg V-bit | 50 ~ 60 mm/min | 0.04 ~ 0.05 mm | 0.04 ~ 0.05 mm | 1 ~ 2
 | Board Outline | 0.8 mm flat | 50 ~ 80 mm/min | 0.42 ~ 0.45 mm | 1.65 ~ 1.70 mm | 1
 
+**Note:**
+- **Safety glasses must be used when viewing milling process**
+- confirm feedrate settings in G-code
+- confirm z-sensor probe is activated when switch depressed
+- perform an air cut or camotics simulation before beginning cutting
+- perform z-calibration everyting endmill or mill bit is changed
+
 ## assignment (reference)
 - [Noel](http://fab.academany.org/2020/labs/singapore/students/noel-kristian/exercise04.html)
 - [Yeo GS](http://fab.academany.org/2020/labs/singapore/students/gausiong-yeo/exercise04.html)
