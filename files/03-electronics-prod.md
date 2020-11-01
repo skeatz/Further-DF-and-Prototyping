@@ -120,6 +120,18 @@
   - [ISP Programmer Example](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/index.html)
   - FTDI example: [trace](../images/02_ch330-ftdi_traces.png) [outline](../images/02_ch330-ftdi_outline.png)
 
+## Recommended settings for Stepcraft
+
+| Operation | Endmill size | Cut Speed | Cut Depth | Total Depth | Offset
+
+| :--- | :---: | :---: | :---: | :---: | :---
+
+| Traces | 0.4 mm flat | 50 ~ 60 mm/min | 0.04 ~ 0.05 mm | 0.04 ~ 0.05 mm | 2 ~ 4
+
+| Traces | 0.1 mm 30 deg V-bit | 50 ~ 60 mm/min | 0.04 ~ 0.05 mm | 0.04 ~ 0.05 mm | 1 ~ 2
+
+| Board Outline | 0.8 mm flat | 50 ~ 80 mm/min | 0.42 ~ 0.45 mm | 1.65 ~ 1.70 mm | 1
+
 ## assignment (reference)
 - [Noel](http://fab.academany.org/2020/labs/singapore/students/noel-kristian/exercise04.html)
 - [Yeo GS](http://fab.academany.org/2020/labs/singapore/students/gausiong-yeo/exercise04.html)
