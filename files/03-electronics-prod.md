@@ -123,13 +123,10 @@
 ## Recommended settings for Stepcraft
 
 | Operation | Endmill size | Cut Speed | Cut Depth | Total Depth | Offset
-
-| :--- | :---: | :---: | :---: | :---: | :---
-
+| :--- | :---: | :---: | :---: | :---: | :---:
 | Traces | 0.4 mm flat | 50 ~ 60 mm/min | 0.04 ~ 0.05 mm | 0.04 ~ 0.05 mm | 2 ~ 4
-
+| Traces | 0.8 mm flat | 60 ~ 80 mm/min | 0.04 ~ 0.05 mm | 0.04 ~ 0.05 mm | 1 ~ 2 
 | Traces | 0.1 mm 30 deg V-bit | 50 ~ 60 mm/min | 0.04 ~ 0.05 mm | 0.04 ~ 0.05 mm | 1 ~ 2
-
 | Board Outline | 0.8 mm flat | 50 ~ 80 mm/min | 0.42 ~ 0.45 mm | 1.65 ~ 1.70 mm | 1
 
 ## assignment (reference)
