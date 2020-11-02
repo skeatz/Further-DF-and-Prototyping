@@ -6,7 +6,7 @@
 
 - [Muhammad Fadhli]()
 
-- [Voo Zhan Li]()
+- [Voo Zhan Li](https://v00zhanli.github.io/EP1001/)
 
 - [Christopher Teng](https://eatpoopandgrowstrong.github.io/hub/)
 
