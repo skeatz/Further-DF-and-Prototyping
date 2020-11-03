@@ -14,7 +14,7 @@
 
 - [Claire Lee]()
 
-- [Danish Erhan]()
+- [Danish Erhan](https://danish-erhan02.github.io/EP1001/)
 
 - [Chen Jiacheng]()
 
