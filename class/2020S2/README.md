@@ -2,7 +2,7 @@
 
 - [Rachel Cheng](https://raeyyyychael.github.io/EP1001/)
 
-- [Gabriel Asaween](https://github.com/Gabriel-AS/EP1001-SP/blob/main/Main.html)
+- [Gabriel Asaween](https://gabriel-as.github.io/EP1001-SP/Main.html)
 
 - [Muhammad Fadhli]()
 
