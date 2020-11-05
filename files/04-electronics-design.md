@@ -47,7 +47,7 @@
 ## Eagle Tutorial
 - [Schematic Capture](https://learn.sparkfun.com/tutorials/using-eagle-schematic)
 - [Board Layout](https://learn.sparkfun.com/tutorials/using-eagle-board-layout)
-- [PCB-gcode](https://www.youtube.com/watch?v=DVKAV7udp3Y)
+- [PCB-gcode](https://www.youtube.com/watch?v=DVKAV7udp3Y), [pcb-gcode (modified w/slice for outline milling)](https://github.com/McNugget6750/pcb-gcode)
 - [Custom SMD footprints](https://learn.sparkfun.com/tutorials/designing-pcbs-smd-footprints)
 - [How to create SMD-based PCBs](https://learn.sparkfun.com/tutorials/designing-pcbs-advanced-smd)
 
