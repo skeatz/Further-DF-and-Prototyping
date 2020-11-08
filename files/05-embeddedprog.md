@@ -110,29 +110,29 @@
   - [inline](http://www.nongnu.org/avr-libc/user-manual/inline_asm.html)
 
 - C
-  - programming
-  - GCC
-    -  make files (tabs)
-    -  bit operations
+  - [programming](https://gitlab.fabcloud.org/academany/fabacademy/2020/recitations/blob/master/programming.pdf)
+  - [GCC](http://gcc.gnu.org/)
+    -  [make files](https://www.gnu.org/software/make/manual/html_node/Introduction.html#Introduction)
+    -  [bit operations](http://playground.arduino.cc/Code/BitMath)
   - AVR
-    - libc modules types math benchmarks
-    - avr-libc binutils-avr gcc-avr
-    - homebrew-avr
+    - [libc](http://www.nongnu.org/avr-libc/user-manual/index.html) [modules](http://www.nongnu.org/avr-libc/user-manual/modules.html) [types](http://www.nongnu.org/avr-libc/user-manual/group__avr__stdint.html) [math](http://www.nongnu.org/avr-libc/user-manual/group__avr__math.html) [benchmarks](http://www.nongnu.org/avr-libc/user-manual/benchmarks.html)
+    - [avr-libc](http://packages.ubuntu.com/xenial/avr-libc) [binutils-avr](http://packages.ubuntu.com/xenial/binutils-avr) [gcc-avr](http://packages.ubuntu.com/xenial/gcc-avr)
+    - [homebrew-avr](https://github.com/osx-cross/homebrew-avr)
   - ARM
-    - gcc-arm-none-eabi gdb-multiarch
-    - homebrew-arm
+    - [gcc-arm-none-eabi](http://packages.ubuntu.com/xenial/gcc-arm-none-eabi) [gdb-multiarch](http://packages.ubuntu.com/xenial/gdb-multiarch)
+    - [homebrew-arm](https://github.com/osx-cross/homebrew-arm)
   - Microchip
-    - ASF
-    - Studio
-    - toolchains
+    - [ASF](https://asf.microchip.com/docs/latest)
+    - [Studio](https://www.microchip.com/avr-support/atmel-studio-7)
+    - [toolchains](https://www.microchip.com/mplab/avr-support/avr-and-arm-toolchains-c-compilers) [packs](http://packs.download.atmel.com/)
 
 - IDE
-  - Atmel Studio
-  - Arduino
-  - Eclipse AVR
-  - Firefly
-  - Scratch
-  - Modkit
+  - [Atmel Studio](https://www.microchip.com/avr-support/atmel-studio-7)
+  - [Arduino](https://www.arduino.cc/en/Main/Software)
+  - [Eclipse AVR](http://www.eclipse.org/)
+  - [Firefly](http://www.grasshopper3d.com/profile/firefly)
+  - [Scratch](http://wiki.scratch.mit.edu/wiki/PicoBoard)
+  - [Modkit](http://www.modk.it/)
 
 - boards
   - Atmel Adafruit Olimex Polulu MattairTech
