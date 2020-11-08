@@ -6,9 +6,9 @@ AY2020/2021 S2 Schedule
 | Week | Date | Topic | Remarks |
 |:----:|:----:|-------|---------|
 | 01 | 19/10/20 | [Introduction, Review of Digital Fabrication Skills](02-intro-review.md) |
-| 02 | 26/10/20 | Electronics Production | 
-| 03 | 02/11/20 | Electronics Design |
-| 04 | 09/11/20 | Embedded Programming | Deepavali 14 Nov |
+| 02 | 26/10/20 | [Electronics Production](https://skeatz.github.io/Further-DF-and-Prototyping/files/03-electronics-prod.html) | 
+| 03 | 02/11/20 | [Electronics Design](https://skeatz.github.io/Further-DF-and-Prototyping/files/04-electronics-design.html) |
+| 04 | 09/11/20 | [Embedded Programming](https://skeatz.github.io/Further-DF-and-Prototyping/files/05-embeddedprog.html) | Deepavali 14 Nov |
 | 05 | 16/11/20 | 2D Computer Controlled Machining |
 | 06 | 23/11/20 | 2D Routing (hands-on) |
 | 07 | 30/11/20 | 3D Machining, Molding & Casting |
