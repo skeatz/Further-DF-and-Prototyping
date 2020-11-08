@@ -45,6 +45,7 @@
      - [ESP8266](https://www.espressif.com/en/products/hardware/esp8266ex/overview)
      - [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview)
    - PSoC, xCORE, Propeller, Lattice, NVIDIA
+   - [RISC-V](https://cacm.acm.org/magazines/2020/5/244325-will-risc-v-revolutionize-computing/fulltext)
 
 - vendors
   - [Octopart](http://octopart.com/)
