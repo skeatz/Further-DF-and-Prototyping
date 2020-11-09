@@ -212,16 +212,19 @@
 
 - [ESP8266](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/0a-esp8266ex_datasheet_en.pdf)
   - [ESP-01](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/esp01.pdf)
-  - [hello.ESP-01](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.png) [components](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.jpg) [traces](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.traces.png) [holes](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.holes.png) [interior](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.interior.png)
+    - [hello.ESP-01](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.png) [components](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.jpg) [traces](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.traces.png) [holes](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.holes.png) [interior](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.interior.png)
+    
          [echo.ino](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.echo.ino) [video](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.echo.mp4)
   - [ESP-WROOM-02D](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/esp-wroom-02d_esp-wroom-02u_datasheet_en-1365835.pdf)
     - [hello.ESP-WROOM-02D](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-WROOM-02D.png) [components](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-WROOM-02D.jpg) [traces](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-WROOM-02D.traces.png) [holes](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-WROOM-02D.holes.png) [interior](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-WROOM-02D.interior.png)
+    
          [echo.ino](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-WROOM-02D.echo.ino) [video](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-WROOM-02D.echo.mp4)
          [Python](http://docs.micropython.org/en/latest/esp8266/quickref.html) [video](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-WROOM-02D.Python.mp4)
 
 - [ESP32](http://academy.cba.mit.edu/classes/networking_communications/ESP32/esp32_datasheet_en.pdf)
   - [ESP32-WROOM-32](http://academy.cba.mit.edu/classes/networking_communications/ESP32/esp32-wroom-32_datasheet_en.pdf)
     - [hello.ESP32-WROOM](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.png) [components](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.jpg) [traces](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.traces.png) [holes](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.holes.png) [interior](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.interior.png)
+    
          [echo.ino](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.echo.ino) [video](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.echo.mp4)
          [Python](http://docs.micropython.org/en/latest/esp32/quickref.html) [video](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.Python.mp4)
 
