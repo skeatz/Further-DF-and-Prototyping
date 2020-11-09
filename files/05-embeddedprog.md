@@ -135,19 +135,17 @@
   - [Scratch](http://wiki.scratch.mit.edu/wiki/PicoBoard)
   - [Modkit](http://www.modk.it/)
 
-- boards
-  - Atmel Adafruit Olimex Polulu MattairTech
+- [boards](https://pub.pages.cba.mit.edu/ring)
+  - [Atmel](http://www.digikey.com/product-detail/en/ATXMEGAE5-XPLD/ATXMEGAE5-XPLD-ND) [Adafruit](https://www.adafruit.com/product/46) [Sparkfun](https://www.sparkfun.com/categories/1) [Polulu](https://www.pololu.com/category/149/a-star-programmable-controllers) [MattairTech](https://www.mattairtech.com/)
 
-- Arduino
+- [Arduino](http://www.arduino.cc/)
   - board + toolchain + libraries + IDE + bootloader + header
   - programming
-    - C++ Create Codebender Ardublock
+    - [C++](https://arduino.github.io/arduino-cli/latest/sketch-build-process/) [Create](https://create.arduino.cc/) [Codebender](https://codebender.cc/) [Ardublock](http://blog.ardublock.com/)
   - original
-    - Fabkit Fabio satshakit hello.328P
-  - cores
-    - ATtiny tinyAVR SAMD ESP8266 ESP32
-  - boards
-    - Adrianino
+    - [Fabkit](http://archive.fabacademy.org/archives/2016/doc/projects/fabkit-0.4.html) [Fabio](http://makeyourbot.wikidot.com/fabio-1-1) [satshakit](https://github.com/satshakit) [hello.328P](http://academy.cba.mit.edu/classes/embedded_programming/hello.arduino.328P.png)
+  - [cores](https://www.arduino.cc/en/guide/cores)
+    - [ATtiny](https://github.com/SpenceKonde/ATTinyCore) [tinyAVR](https://github.com/SpenceKonde/megaTinyCore) [SAMD](https://github.com/mattairtech/ArduinoCore-samd) [ESP8266](https://github.com/esp8266/Arduino) [ESP32](https://github.com/espressif/arduino-esp32)
 
 - clocks
   - types
@@ -155,107 +153,86 @@
     - ceramic (0.5%)
     - quartz (50 ppm)
   - PLL
-  - instruction cycles
-  - overclocking
-
+  - [Crystal](https://www.digikey.com/en/products/detail/ndk-america-inc/NX5032GA-20-000000MHZ-LN-CD-1/1128821?s=N4IgTCBcDaIGwBYEFoCMAGAzATjcgcgCIgC6AvkA) [Resonator](https://www.digikey.com/en/products/detail/ecs-inc/ECS-CR2-20-00-B-TR/813196?s=N4IgTCBcDaIBoGECMSAMBOBAVAtAOQBEQBdAXyA) [difference](https://www.rfwireless-world.com/Terminology/Crystal-vs-Resonator.html)
+ 
 - host communication
-  - RS232
+  - [RS232](http://academy.cba.mit.edu/classes/embedded_programming/serial.png)
     - bit timing
-  - VT100/ANSI/ISO/ECMA terminal
-    - Screen Kermit Minicom Arduino
-    - pySerial minitermy
-         python -m serial.tools.miniterm /dev/your_device_port your_baud_rate
-    - SerialPort terminal
-         serialport-terminal
-  - USB
+  - [VT100/ANSI/ISO/ECMA terminal](http://academy.cba.mit.edu/classes/embedded_programming/Ecma-048.pdf)
+    - [Minicom](http://alioth.debian.org/projects/minicom/) [Arduino](https://www.arduino.cc/reference/en/language/functions/communication/serial) [Putty](https://www.ssh.com/ssh/putty/)
+
+  - [USB](http://www.usb.org/home)
     - software
-      -  V-USB
+      -  [V-USB](http://www.obdev.at/products/vusb/index.html)
     - hardware
-      - LUFA ASF Arduino
-  - FTDI
-    - drivers
-    - libFTDI
-    - cable
-    - chip
-      - hello.USB-serial.FT230X board components traces interior
+      - [LUFA](http://www.fourwalledcubicle.com/LUFA.php) [ASF](https://asf.microchip.com/docs/latest/asf_usb.html) [Arduino](https://www.arduino.cc/en/Reference/Libraries)
+  - [FTDI](http://www.ftdichip.com/)
+    - [drivers](https://www.ftdichip.com/FTDrivers.htm)
+    - [libFTDI](http://www.intra2net.com/en/developer/libftdi/) [zadig](https://zadig.akeo.ie/)
+     - [cable](https://www.digikey.com/product-detail/en/ftdi-future-technology-devices-international-ltd/TTL-232R-5V/768-1028-ND)
+    - [chip](https://www.ftdichip.com/Products/ICs/FT230X.html)
+      - [hello.USB-serial.FT230X](http://academy.cba.mit.edu/classes/embedded_programming/FTDI/USB-FT230XS-serial) [board](http://academy.cba.mit.edu/classes/embedded_programming/FTDI/USB-FT230XS-serial.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/FTDI/USB-FT230XS-serial.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/FTDI/USB-FT230XS-serial.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/FTDI/USB-FT230XS-serial.interior.png)
+    - [CH340G, CH340E](https://www.mpja.com/download/35227cpdata.pdf) [drivers](https://sparks.gogo.co.nz/ch340.html)
+   
 
-- ATtiny412
-  - hello.t412.blink board components traces interior
-      timing blink.ino video
-  - hello.t412.echo board componenets traces interior
-      UART echo.ino video
+- [ATtiny412](http://academy.cba.mit.edu/classes/embedded_programming/t412/40001911A.pdf)
+  - [hello.t412.blink](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.blink.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.blink.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.blink.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.blink.interior.png)
+      timing [blink.ino](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.blink.ino) [video](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.blink.mp4)
+  - [hello.t412.echo](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.interior.png)
+      UART [echo.ino](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.ino) [video](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.mp4)
 
-- ATtiny45
-  - hello.ftdi.45 board components traces interior pin re-use
-      ports port.c port.make port.ino port.write.ino
-      bit-bang echo.c echo.make echo.ino echo.serial.ino video
+- [ATtiny45](http://academy.cba.mit.edu/classes/embedded_programming/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf)
+  - [hello.ftdi.45](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.interior.png) pin re-use
+      [ports](http://academy.cba.mit.edu/classes/embedded_programming/portwrite.html) [port.c](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.port.c) [port.make](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.port.make) [port.ino](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.port.ino) [port.write.ino](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.port.write.ino)
+      [echo.ino](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.echo.ino) [echo.serial.ino](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.echo.serial.ino) [video](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.echo.mp4)
 
-- ATtiny1614
-  - hello.t1614.echo board components traces interior
-      echo.ino video
+- [ATtiny1614](http://academy.cba.mit.edu/classes/embedded_programming/t1614/ATtiny1614-DataSheet-DS40001995B.pdf)
+  - [hello.t1614.echo](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.interior.png)
+      [echo.ino](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.ino) [video](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.mp4)
 
-- ATtiny44
-  - hello.ftdi.44 board components traces interior
-  - hello.ftdi.44.2 board components top bottom holes interior
-      programming mods
-      echo.c echo.c.make
-      echo.interrupt.c echo.interrupt.c.make
-      echo.asm echo.asm.make
+- [ATtiny44](http://academy.cba.mit.edu/classes/embedded_programming/8183s.pdf)
+  - [hello.ftdi.44](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.components.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.interior.png)
 
-- ATtiny3216
-  - hello.t3216.echo board components traces interior
-      echo.ino video
-
-- ATSAMD11C
-  - hello.D11C.blink board components traces interior
-  - hello.D11C.blink.reset board components traces interior
-  - hello.D11C.blink.reset.clock board components traces interior
-      blink.c blink.make bootloader blink.ino video
-  - hello.D11C.echo board components traces interior
-      echo.ino video 
-  - hello.D11C.serial.5V board components traces interior
-  - hello.D11C.serial.3V3 board components traces interior
-      serial.ino video
-
-- ATSAMD11D
-  - hello.D11D.echo board components traces interior
-      openocd.cfg bootloader echo.ino video
+- [ATSAMD11C](http://academy.cba.mit.edu/classes/embedded_programming/D11C/atmel-42363-sam-d11_datasheet.pdf)
+  - [hello.D11C.blink](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.interior.png)
+      [blink.c](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.c) [blink.make](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.make) [bootloader](https://github.com/mattairtech/ArduinoCore-samd/blob/master/bootloaders/zero/binaries/sam_ba_Generic_D11C14A_SAMD11C14A.bin) [blink.ino](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.ino) [video](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.mp4)
 
 - Interpreters
-  - AVRSH
-  - BASIC
-  - FORTH
-  - Espruino
-  - MicroPython CircuitPython
+  - [AVRSH](http://www.instructables.com/id/AVRSH-A-Command-Interpreter-Shell-for-ArduinoAVR/)
+  - [BASIC](http://gcbasic.sourceforge.net/Typesetter/index.php/Home)
+  - [FORTH](http://amforth.sourceforge.net/)
+  - [Espruino](http://www.espruino.com/)
+  - [MicroPython](https://micropython.org/) [CircuitPython](https://github.com/adafruit/circuitpython)
 
-- ESP8266
-  - ESP-01
-  - hello.ESP-01 board components traces holes interior
-         echo.ino video
-  - ESP-WROOM-02D
-    - hello.ESP-WROOM-02D board components traces holes interior
-         echo.ino video
-         Python video
+- [ESP8266](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/0a-esp8266ex_datasheet_en.pdf)
+  - [ESP-01](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/esp01.pdf)
+  - [hello.ESP-01](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.png) [components](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.jpg) [traces](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.traces.png) [holes](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.holes.png) [interior](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.interior.png)
+         [echo.ino](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.echo.ino) [video](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-01.echo.mp4)
+  - [ESP-WROOM-02D](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/esp-wroom-02d_esp-wroom-02u_datasheet_en-1365835.pdf)
+    - [hello.ESP-WROOM-02D](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-WROOM-02D.png) [components](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-WROOM-02D.jpg) [traces](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-WROOM-02D.traces.png) [holes](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-WROOM-02D.holes.png) [interior](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-WROOM-02D.interior.png)
+         [echo.ino](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-WROOM-02D.echo.ino) [video](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-WROOM-02D.echo.mp4)
+         [Python](http://docs.micropython.org/en/latest/esp8266/quickref.html) [video](http://academy.cba.mit.edu/classes/networking_communications/ESP8266/hello.ESP-WROOM-02D.Python.mp4)
 
-- ESP32
-  - ESP32-WROOM-32
-    - hello.ESP32-WROOM board components traces holes interior
-         echo.ino video
-         Python video
+- [ESP32](http://academy.cba.mit.edu/classes/networking_communications/ESP32/esp32_datasheet_en.pdf)
+  - [ESP32-WROOM-32](http://academy.cba.mit.edu/classes/networking_communications/ESP32/esp32-wroom-32_datasheet_en.pdf)
+    - [hello.ESP32-WROOM](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.png) [components](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.jpg) [traces](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.traces.png) [holes](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.holes.png) [interior](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.interior.png)
+         [echo.ino](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.echo.ino) [video](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.echo.mp4)
+         [Python](http://docs.micropython.org/en/latest/esp32/quickref.html) [video](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.Python.mp4)
 
 - Operating Systems
-  - FreeRTOS
-  - TinyOS
-  - Mbed OS
-  - ROS
+  - [FreeRTOS](https://www.freertos.org/)
+  - [TinyOS](https://github.com/tinyos/tinyos-main)
+  - [Mbed OS](https://www.mbed.com/en/)
+  - [ROS](http://www.ros.org/)
 
 - Systems
-  - Rasberry Pi MATE
-  - Beagle
-  - Micro:bit
+  - [Rasberry Pi](http://www.raspberrypi.org/) [MATE](https://ubuntu-mate.org/)
+  - [Beagle](http://beagleboard.org/)
+  - [Micro:bit](https://microbit.org/)
 
 - debugging
   - hardware
+    - [Atmel ICE](https://www.microchip.com/DevelopmentTools/ProductDetails/atatmel-ice) 
     - inspect, reflow solder joints
     -  check component orientation, values
     -  verify data sheets
@@ -266,15 +243,13 @@
     - blink LED
     - add print statements
     - use embedded debugger
-      - gdb, ddd
-      - Atmel Studio
+      - [gdb](http://www.gnu.org/software/gdb/), [ddd](http://www.gnu.org/software/ddd/)
+      - [Atmel Studio](https://www.microchip.com/avr-support/atmel-studio-7)
 
 - assignment
   - individual assignment:
-    - read a microcontroller data sheet
+    - read a microcontroller [data sheet](http://academy.cba.mit.edu/classes/embedded_programming/t412/40001911A.pdf)
     - program your board to do something,
     - with as many different programming languages
          and programming environments as possible
-  - group assignment:
-    - compare the performance and development workflows
-         for other architectures
+
