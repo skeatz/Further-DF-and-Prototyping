@@ -177,17 +177,22 @@
 
 - [ATtiny412](http://academy.cba.mit.edu/classes/embedded_programming/t412/40001911A.pdf)
   - [hello.t412.blink](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.blink.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.blink.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.blink.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.blink.interior.png)
+  
       timing [blink.ino](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.blink.ino) [video](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.blink.mp4)
   - [hello.t412.echo](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.interior.png)
+  
       UART [echo.ino](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.ino) [video](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.mp4)
 
 - [ATtiny45](http://academy.cba.mit.edu/classes/embedded_programming/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf)
   - [hello.ftdi.45](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.interior.png) pin re-use
+  
       [ports](http://academy.cba.mit.edu/classes/embedded_programming/portwrite.html) [port.c](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.port.c) [port.make](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.port.make) [port.ino](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.port.ino) [port.write.ino](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.port.write.ino)
+      
       [echo.ino](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.echo.ino) [echo.serial.ino](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.echo.serial.ino) [video](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.echo.mp4)
 
 - [ATtiny1614](http://academy.cba.mit.edu/classes/embedded_programming/t1614/ATtiny1614-DataSheet-DS40001995B.pdf)
   - [hello.t1614.echo](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.interior.png)
+  
       [echo.ino](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.ino) [video](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.mp4)
 
 - [ATtiny44](http://academy.cba.mit.edu/classes/embedded_programming/8183s.pdf)
@@ -195,6 +200,7 @@
 
 - [ATSAMD11C](http://academy.cba.mit.edu/classes/embedded_programming/D11C/atmel-42363-sam-d11_datasheet.pdf)
   - [hello.D11C.blink](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.interior.png)
+  
       [blink.c](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.c) [blink.make](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.make) [bootloader](https://github.com/mattairtech/ArduinoCore-samd/blob/master/bootloaders/zero/binaries/sam_ba_Generic_D11C14A_SAMD11C14A.bin) [blink.ino](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.ino) [video](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.mp4)
 
 - Interpreters
