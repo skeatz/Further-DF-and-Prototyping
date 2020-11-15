@@ -2,6 +2,7 @@
 
 ## Quick References
 - [Introduction to CNC](https://www.3dhubs.com/knowledge-base/cnc-machining-manufacturing-technology-explained/)
+
 ## projects
 - [Standing Desk](https://www.forbes.com/sites/kerryflynn/2014/07/31/how-to-make-a-standing-desk-for-under-200-mit-grads-go-digital), [Opendesk](https://www.opendesk.cc/)
 - [Shelter 2.0](http://www.shelter20.com/), [yourHOUSE](http://blog.ted.com/digitally_fabbe/), [FabHouse](https://fablab.hochschule-rhein-waal.de/fabhouse-en), [Fab Lab House](https://archello.com/project/the-fab-lab-house)
@@ -18,7 +19,7 @@
 - [MTM](http://mtm.cba.mit.edu/)
 - [EAS](http://www.im-machinery-asia.com.sg/versatil-125025002750-2/)
 
-##stock
+## stock
 - [rigid foam insulation](https://www.insulfoam.com/rigid-foam-insulation-types/)
 - [veneer plywood](http://www.differencebetween.info/difference-between-plywood-and-veneer)
 - [Medium Density Fiberboard (MDF)](https://www.bobvila.com/articles/what-is-mdf/)
