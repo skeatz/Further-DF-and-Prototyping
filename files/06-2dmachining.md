@@ -146,7 +146,7 @@
   - [gcode cheat sheet](https://www.probotix.com/wiki/images/b/bd/G-codes_cheatsheet.pdf)
 
 ## [safety](http://www.popularmechanics.com/home/skills/yale-students-tragic-death-prompts-a-shop-safety-review)
-- [training](http://ehs.mit.edu/site/training)
+- [training](https://esp.sp.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_51997_1&content_id=_1547283_1)
 - cuts, burns, impacts, [fires](http://fab.academany.org/2018/labs/fablabspinderihallerne/students/claus-nicolaisen/portfolio/week8/log.html)
 - glasses, shoes, clothes, hair, gloves
 - look, listen
