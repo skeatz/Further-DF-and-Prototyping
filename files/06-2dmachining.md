@@ -120,7 +120,7 @@
 ## CAM
 - [Fusion 360]
   - [CAM for CNC beginners](https://www.instructables.com/Fusion-360-CAM-Tutorial-for-CNC-Beginners/)
-  - [CAM lessons]{http://cadcamlessons.com/fusion-360-cam-tutorial/}
+  - [CAM lessons](http://cadcamlessons.com/fusion-360-cam-tutorial/)
   - [Fusion 360 CAM overview](https://skippy.org.uk/wp-content/uploads/09_CAM.pdf)
 - [VCarvePro](https://www.shopbottools.com/products/software)
 - [FeatureCAM](http://www.featurecam.com/)
