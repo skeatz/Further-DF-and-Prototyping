@@ -61,7 +61,8 @@
   - [onsrud](https://www.google.com/url?q=http://www.onsrud.com/&sa=D&ust=1605461694137000&usg=AFQjCNEohNHnB4i_8Pjp9kZXaeE279x6Hg)
   - [Cutting Tools](https://www.lfc.com.sg/products/category/Cutting-tools?&page=all)
   - [sgtooling](https://sgtooling.com/collections/cutting-tools)
-![cnc cutting tools](../images/07_cnc/cutting-tools.png)
+
+![cnc cutting tools](../images/06_cnc-cutting-tools.png)
 
 
 ## [speeds and feeds](http://new.industrialpress.com/machineryhandbook)
