@@ -2,6 +2,7 @@
 
 ## Quick References
 - [Introduction to CNC](https://www.3dhubs.com/knowledge-base/cnc-machining-manufacturing-technology-explained/)
+- [FablabSP CNC training materials](https://esp.sp.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_51997_1&content_id=_1547283_1)
 
 ## projects
 - [Standing Desk](https://www.forbes.com/sites/kerryflynn/2014/07/31/how-to-make-a-standing-desk-for-under-200-mit-grads-go-digital), [Opendesk](https://www.opendesk.cc/)
