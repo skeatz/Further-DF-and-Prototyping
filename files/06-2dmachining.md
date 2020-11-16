@@ -58,7 +58,7 @@
 - flutes
 - coatings
 - center-cutting
-- [up/down cut](https://www.camaster.com/what-is-a-downcut-end-mill/)
+- [up/down cut](https://www.cnccookbook.com/cnc-router-cutters-types-and-how-to-use-them/)
 - flat/ball end
 - vendors
   - [onsrud](https://www.onsrud.com/)
@@ -106,7 +106,7 @@
 
 ## [toolpaths](https://www.cnccookbook.com/complete-guide-to-cam-toolpaths-and-operations-for-milling-in-2020/)
 - kerf, offset, runout
-- conventional, climb
+- [conventional, climb](https://www.machinemfg.com/climb-milling-vs-conventional-milling/)
 - [rough/finish cuts](http://academy.cba.mit.edu/classes/computer_machining/cuts.png)
 - high-speed, dry, ramping, [adaptive clearing](https://www.youtube.com/watch?v=1TgYz_LBdkw), swarf, rest
 - one-sided, two-sided, registration
