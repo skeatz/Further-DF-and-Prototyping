@@ -119,6 +119,8 @@
   - test it
   - [ISP Programmer Example](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/index.html)
   - FTDI example: [trace](../images/02_ch330-ftdi_traces.png) [outline](../images/02_ch330-ftdi_outline.png)
+- [Windows Toolchain installation](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/windows_avr.html)
+- [Zadig software: **libusb-win32**](http://zadig.akeo.ie/)
 
 ## Recommended settings for Stepcraft
 
