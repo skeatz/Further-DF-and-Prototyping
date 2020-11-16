@@ -52,18 +52,19 @@
   - [Micro Tech CNC Engineering](http://www.wonghinglong.com.sg/services/cnc-machining/)
   - [IM Machinery Asia](https://www.im-machinery-asia.com.sg/)
 
-## [tooling](http://fab.cba.mit.edu/about/fab/inv.html)
+## [tooling](https://makezine.com/2014/09/10/endmills/)
 - drills vs mills
 - router, V bits
 - flutes
 - coatings
 - center-cutting
-- up/down cut
+- [up/down cut](https://www.camaster.com/what-is-a-downcut-end-mill/)
 - flat/ball end
 - vendors
   - [onsrud](https://www.onsrud.com/)
   - [Cutting Tools](https://www.lfc.com.sg/products/category/Cutting-tools?&page=all)
   - [sgtooling](https://sgtooling.com/collections/cutting-tools)
+- [fablab inventory list](http://fab.cba.mit.edu/about/fab/inv.html)
 
 ![cnc cutting tools](../images/06_cnc-cutting-tools.png)
 
