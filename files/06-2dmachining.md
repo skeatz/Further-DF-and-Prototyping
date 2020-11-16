@@ -13,12 +13,13 @@
 - [Roland](http://www.rolanddga.com/products/3d/srm20/)
 - [Shaper](https://www.shapertools.com/)
 - [ShopBot](https://www.shopbottools.com/)
+- [EAS](http://www.im-machinery-asia.com.sg/versatil-125025002750-2/)
 - [Onsrud](https://www.cronsrud.com/cnc.html)
 - [Haas](https://www.haascnc.com/index.html)
 - [Zund](https://www.zund.com/en)
 - [Fellesverkstedet](https://github.com/fellesverkstedet/fabricatable-machines)
 - [MTM](http://mtm.cba.mit.edu/)
-- [EAS](http://www.im-machinery-asia.com.sg/versatil-125025002750-2/)
+
 
 ## stock
 - [rigid foam insulation](https://www.insulfoam.com/rigid-foam-insulation-types/)
@@ -30,7 +31,7 @@
 - [delrin, POM](https://www.curbellplastics.com/Shop-Materials/All-Materials/Acetal/Delrin-Acetal-Sheet-Homopolymer-Color#?Shape=CRBL.SkuSheet)
 
 ## vendors
-- [McMaster-Carr](http://www.mcmaster.com/#raw-materials)
+- [McMaster-Carr](https://www.mcmaster.com/raw-materials)
 - [US Plastics](https://www.usplastic.com/)
 - [Home Depot](http://www.homedepot.com/s/plywood)
 - Singapore
@@ -60,7 +61,7 @@
 - up/down cut
 - flat/ball end
 - vendors
-  - [onsrud](https://www.google.com/url?q=http://www.onsrud.com/&sa=D&ust=1605461694137000&usg=AFQjCNEohNHnB4i_8Pjp9kZXaeE279x6Hg)
+  - [onsrud](https://www.onsrud.com/)
   - [Cutting Tools](https://www.lfc.com.sg/products/category/Cutting-tools?&page=all)
   - [sgtooling](https://sgtooling.com/collections/cutting-tools)
 
@@ -98,7 +99,7 @@
 
 ## [dust collection](https://makerindustry.com/cnc-router-dust-collection/)
 
-## [flexures](http://academy.cba.mit.edu/classes/computer_cutting/flexures.png), [living hinges](http://academy.cba.mit.edu/classes/computer_cutting/flexures.png), [kerfing](http://academy.cba.mit.edu/classes/computer_cutting/flexures.png), [steam bending](https://www.google.com/search?q=steam+bending&tbm=isch)
+## [flexures, living hinges, kerfing](http://academy.cba.mit.edu/classes/computer_cutting/flexures.png), [steam bending](https://www.google.com/search?q=steam+bending&tbm=isch)
 
 ## [joinery](https://www.thingiverse.com/thing:169723)
 
