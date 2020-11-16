@@ -159,6 +159,10 @@
   - test runout, alignment, speeds, feeds, and toolpaths for your machine
 - individual assignment
   - make (design+mill+assemble) something big
-- sample assignments
+- Fusion 360 CAM examples
+  - [Flat pack stool](https://www.youtube.com/watch?v=DHrP1MunhFw)
+  - [Flat pack shoerack](https://www.youtube.com/watch?v=VJWz-exP4iY)
+  - [Flat pack table](https://www.instructables.com/lesson/Flat-Pack-Table-Design/)
+- assignment (reference)
   - [noel](http://fab.academany.org/2020/labs/singapore/students/noel-kristian/exercise07.html)
   - [ting](http://fab.academany.org/2020/labs/singapore/students/engting-kok/exercise07.html)
