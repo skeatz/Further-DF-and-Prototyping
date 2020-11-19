@@ -100,7 +100,7 @@
 
 ## [dust collection](https://makerindustry.com/cnc-router-dust-collection/)
 
-## [flexures, living hinges, kerfing](http://academy.cba.mit.edu/classes/computer_cutting/flexures.png), [steam bending](https://www.google.com/search?q=steam+bending&tbm=isch)
+## [flexures, living hinges](http://academy.cba.mit.edu/classes/computer_cutting/flexures.png), [kerf bending](https://makezine.com/2009/06/13/kerf-bending-for-cnc-millers/), [steam bending](https://www.google.com/search?q=steam+bending&tbm=isch)
 
 ## [joinery](https://www.thingiverse.com/thing:169723)
 
@@ -113,17 +113,19 @@
 - 2, 2.5, 3, 4, 3+2, 5 axis
 - tool length compensation
 - cut depth, clearance, collisions
-- t-bones
-- tabs, onion skinning
-- nesting
+- [t-bone, dogbone](https://fablab.ruc.dk/more-elegant-cnc-dogbones/), [Fusion 360 dogbone](https://github.com/DVE2000/Dogbone)
+- [tabs](https://www.wwgoa.com/video/cutting-cnc-tabs-router-table-015599/), [onion skinning](https://www.wwgoa.com/video/onion-skin-cutting-cnc-machine-015597/#)
+- [nesting](https://www.shopsabre.com/everything-you-need-to-know-about-nesting-in-cnc-work/), [deepnest.io](https://deepnest.io/)
 - lead-in, -out
-- test cuts, cutting air
-- simulation
+- [test cuts](http://fab.academany.org/2020/labs/singapore/group.assignments/assignment05.html), cutting air
+- [simulation](https://www.coursera.org/lecture/fusion-360-integrated-cad-cam-cae/toolpath-simulation-4nBmV)
 - prototyping
+- [2D CNC milling toolpaths](https://www.autodesk.com/products/fusion-360/blog/10-2d-cnc-milling-toolpaths/)
 
 ## CAM
 - [Fusion 360]
   - [CAM for CNC beginners](https://www.instructables.com/Fusion-360-CAM-Tutorial-for-CNC-Beginners/)
+  - [Fusion 360 CAM Setup](https://www.instructables.com/CNC-Router-CAM-Setup/)
   - [CAM lessons](http://cadcamlessons.com/fusion-360-cam-tutorial/)
   - [Fusion 360 CAM overview](https://skippy.org.uk/wp-content/uploads/09_CAM.pdf)
 - [VCarvePro](https://www.shopbottools.com/products/software)
