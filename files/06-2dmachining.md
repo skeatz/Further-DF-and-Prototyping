@@ -148,7 +148,7 @@
 - [Omax .ord](http://academy.cba.mit.edu/classes/computer_machining/sample.ord)
 - viewers
   - [CAMotics](https://camotics.org/)
-  - [NC Viewer](https://ncviewer.com/https://ncviewer.com/)
+  - [NC Viewer](https://ncviewer.com/)
 - understanding gcode
   - [How to read gcode](https://makezine.com/2016/10/24/get-to-know-your-cnc-how-to-read-g-code/)
   - [How to write CNC program](https://technogilesolutions.com/2020/09/how-to-write-a-cnc-part-program/)

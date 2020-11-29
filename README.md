@@ -40,9 +40,9 @@ Assessment will be based on exercises and projects through three in-course asses
 
 *6. [2D Computer Controlled Machining](files/06-2dmachining.md)*
 
-*7. [3D Machining](files/07-3dmachining.md)*
+*7. [Molding & Casting](files/07-moldingcasting.md)*
 
-*8. [Molding & Casting](files/08-molding-casting.md)*
+*8. [3D Machining](files/08-3dmachining.md)*
 
 *9. [Interface & Applications Programming](files/09-applications.md)*
 
