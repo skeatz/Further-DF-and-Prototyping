@@ -22,13 +22,10 @@
 - [mods](https://skeatz.github.io/mods/) [community](https://fabfoundation.github.io/mods/) [rough](http://academy.cba.mit.edu/classes/computer_machining/2.5D.mp4) [finish](http://academy.cba.mit.edu/classes/computer_machining/3D.mp4)
 
 ## assignment
-- group assignment:
-  - review the safety data sheets for each of your molding and casting materials
-  - then make and compare test casts with each of them
-- individual assignment:
-  - design a mold around the stock and tooling that you'll be using,
-  - mill it (rough cut + (at least) three-axis finish cut),
-  - and use it to cast parts
+- review the safety data sheets for each of your molding and casting materials
+- design a mold around the stock and tooling that you'll be using,
+- mill it (rough cut + (at least) three-axis finish cut),
+- and use it to cast parts
 
 ## examples
 - [Marwa](http://fabacademy.org/2020/labs/kamplintfort/students/marwa-baalouche/class10.html)
