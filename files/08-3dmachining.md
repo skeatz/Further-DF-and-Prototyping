@@ -4,6 +4,8 @@
 - [surface finish](http://fab.cba.mit.edu/classes/863.18/Architecture/people/rodrigo/#/week-7-molding-and-casting)
 - [rough, finish, stepover](http://academy.cba.mit.edu/classes/computer_machining/cuts.png)
 - [tool types](http://www.carbidedepot.com/Endmills-Carbide-C6.aspx)
+
+![cnc cutting tools](../images/06_cnc-cutting-tools.png)
   - flat end
   - ball end
   - extra long, long neck, tapered
