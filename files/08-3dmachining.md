@@ -9,11 +9,14 @@
   - extra long, long neck, tapered
   - micro
 - cut depth, shank, collet, collision, slope
+
 ## software
 - [VCarve Pro](https://www.shopbottools.com/products/software)
 - [Fusion 360](http://www.autodesk.com/products/fusion-360/overview) [Moldflow](https://www.autodesk.com/products/moldflow/overview)
+  - [CNC Basics](https://www.instructables.com/Fusion-360-CAM-Tutorial-for-CNC-Beginners/)
+  - [Essential CAM toolpaths](https://www.bantamtools.com/blog/three-essential-cam-toolpaths-in-fusion-360)
 - Solidworks [CAM](https://www.solidworks.com/product/solidworks-cam) [Plastics](https://www.solidworks.com/product/solidworks-plastics)
-- [mods](https://skeatz.github.io/mods/) [community](hhttps://fabfoundation.github.io/mods/) [rough](http://academy.cba.mit.edu/classes/computer_machining/2.5D.mp4) [finish](http://academy.cba.mit.edu/classes/computer_machining/3D.mp4)
+- [mods](https://skeatz.github.io/mods/) [community](https://fabfoundation.github.io/mods/) [rough](http://academy.cba.mit.edu/classes/computer_machining/2.5D.mp4) [finish](http://academy.cba.mit.edu/classes/computer_machining/3D.mp4)
 
 ## assignment
 - group assignment:
@@ -23,3 +26,9 @@
   - design a mold around the stock and tooling that you'll be using,
   - mill it (rough cut + (at least) three-axis finish cut),
   - and use it to cast parts
+
+## examples
+- [Marwa](http://fabacademy.org/2020/labs/kamplintfort/students/marwa-baalouche/class10.html)
+- [Kais](http://fabacademy.org/2020/labs/kamplintfort/students/kais-alila/assignments/week10/)
+- [Kok Eng](http://fab.academany.org/2020/labs/singapore/students/engting-kok/exercise15.html)
+- [Noel](http://fab.academany.org/2020/labs/singapore/students/noel-kristian/exercise15.html)

@@ -2,28 +2,32 @@
 
 ## [molding](http://academy.cba.mit.edu/classes/molding_casting/foosball.png)
 - **types**
-  - [injection](https://www.apsx.com/desktop-injection-molding-machine-p/apsx_pim.htm) (sprue, runner, gate, vent, parting line, flashing)
+  - [injection](https://www.apsx.com/injection-machine) (sprue, runner, gate, vent, parting line, flashing) [video](https://www.youtube.com/watch?v=qn16JtE_vLc)
   - [insert](http://fabacademy.org/archives/2012/students/bas.withagen/cl08asgn.html)
-  - [vacuum](http://cba.mit.edu/tools/#Formech_FM660_Vacuum_Former)
-  - blow
+  - [vacuum forming](https://formlabs.com/asia/blog/introduction-to-vacuum-forming/)
+  - [blow](https://monroeengineering.com/blog/what-is-blow-molding/) [video](https://www.youtube.com/watch?v=8W6P5KU5ONQ)
   - [rototional](http://fabacademy.org/archives/2015/eu/students/silli.saverio/project07.html)
   - vacuum, pressure assisted
-  - die, investment casting
-  - [flexible](http://fab.cba.mit.edu/classes/863.13/people/crreed/weekly/week6.html), [soft](http://fab.cba.mit.edu/classes/863.13/people/crreed/weekly/week6.html), [short-run production](http://fab.cba.mit.edu/classes/863.11/people/janice.wang/MAS863.11Site/MoldingCats.html)
-  - [mold](https://news.mit.edu/2019/engineers-demonstrate-lighter-flexible-airplane-wing-0401), [parts](http://fab.cba.mit.edu/classes/863.12/people/matted/weekly-projects/6-molding-and-casting.html), [registration](http://academy.cba.mit.edu/classes/molding_casting/tippy.png) [video](http://academy.cba.mit.edu/classes/molding_casting/tippy.mp4)
+  - [die casting](https://www.dynacast.com/en-sg/die-casting/about-die-casting), [investment casting](https://engineeringproductdesign.com/knowledge-base/investment-casting/)
+  - [flexible, soft](http://fab.cba.mit.edu/classes/863.13/people/crreed/weekly/week6.html), [short-run production](http://fab.cba.mit.edu/classes/863.11/people/janice.wang/MAS863.11Site/MoldingCats.html)
+  - [parts](http://fab.cba.mit.edu/classes/863.12/people/matted/weekly-projects/6-molding-and-casting.html), [registration](http://academy.cba.mit.edu/classes/molding_casting/tippy.png) [video](http://academy.cba.mit.edu/classes/molding_casting/tippy.mp4)
 - **vendors**
   - [Smooth-On](http://www.smooth-on.com/)
   - [Reynolds Advanced Materials](http://www.reynoldsam.com/)
-  - [Dick Blick](http://www.dickblick.com/)
-  - [West Marine](http://www.westmarine.com/)
+  - [Dick Blick](https://www.dickblick.com/categories/ceramics-sculpture/mold-making-casting/)
+  - [West Marine](https://www.westmarine.com/resins-fillers-fiberglass)
   - [USG](http://plaster.com/)
-  - [Chockfast](http://chockfast.com/products)
   - [Aremco](http://www.aremco.com/)
+  - Singapore vendors
+    - [Art Friend](https://artfriendonline.com/EN/OnlineUsers/Index)
+    - [Resin Play](https://resinplay.sg/collections/silicone-rubber-mould-maker)
+    - [Tinkle Arts](https://www.tinkleartroom.com/collections/molding-casting-materials)
+    - [Mold Creative](https://www.smooth-on.com/distributor-regions/asia-indonesia/)
 - **[materials](http://fab.cba.mit.edu/about/fab/inv.html)**
   - [low-temp wax](http://www.dickblick.com/products/amaco-flexwax-moldmaking-material/)
   - [machineable wax](http://www.machinablewax.com/)
   - [rigid foam](https://www.homedepot.com/p/Owens-Corning-FOAMULAR-250-2-in-x-48-in-x-8-ft-R-10-Scored-Squared-Edge-Insulation-Sheathing-52DD/202085962)
-    - [gesso](http://www.dickblick.com/products/blick-studio-gesso/), [epoxy](https://www.smooth-on.com/products/epsilon), [shrink wrap](https://www.uline.com/Grp_49/Shrink-Film-Rolls), hot air
+    - [gesso](http://www.dickblick.com/products/blick-studio-gesso/), [epoxy](https://www.smooth-on.com/products/epsilon), [shrink wrap (mold release)](https://www.uline.com/Grp_49/Shrink-Film-Rolls), hot air
   - [wood](https://www.freemansupply.com/products/machinable-media/perfect-plank-specialty-lumber)
   - [alginate gel](http://www.dickblick.com/products/activa-instamold-moldmaking-compound/)
   - urethane [rubber](https://www.smooth-on.com/category/urethane-rubber), [plastic](https://www.smooth-on.com/category/urethane-resin), [colorants](https://www.smooth-on.com/products/so-strong/)
@@ -33,13 +37,13 @@
   - [latex](http://www.dickblick.com/products/amaco-rubber-latex/)
   - [thermoplastic](http://www.mcmaster.com/#thermoplastics), [thermoset](http://www.mcmaster.com/#thermosets) polymers
   - calcium sulfate
-    - desicant, coagulant, plaster, gypsum, drywall
+    - desicant, coagulant, [plaster](https://www.amazon.com/Plaster-Paris/s?k=Plaster+of+Paris), gypsum, drywall
     - [Drystone](https://plaster.com/product/usg-drystone)
-  - Portland cement
+  - [Portland cement](https://www.buildmate.com.sg/product/portland-cement-opc-engro/)
     - calcium silicate, aluminum/iron oxide, calcium sulfate
     - [Hydro-Stone](https://plaster.com/product/usg-hydrostone)
   - [metal](http://fabacademy.org/archives/2015/as/students/wang.tse-kang/week09.html)
-    - [Cerrotru](http://www.rotometals.com/product-p/lmp281.htm) [casting](https://www.amazon.com/Do-It-Molds-1892-Hot-Pot-2/dp/B002QG3H9M) polishing
+    - [Cerrotru](http://www.rotometals.com/product-p/lmp281.htm) [casting pot](https://www.amazon.com/Do-It-Molds-1892-Hot-Pot-2/dp/B002QG3H9M) polishing
     - [aluminum](http://fab.cba.mit.edu/classes/863.15/doc/tutorials/sandcasting/index.html) [clay](http://www.amazon.com/UJ-Ramelson-Co-clayset-Casting/dp/B00JJ07G4K) [sand](http://www.amazon.com/Grobet-SAND-CASTING-SET/dp/B003TFSBBS) [glass](http://academy.cba.mit.edu/classes/molding_casting/glass.png)
   - [ceramic](http://www.aremco.com/)
   - [food](http://www.smooth-on.com/Silicone-Rubber-an/c2_1115_1134/index.html)
@@ -59,7 +63,7 @@
     - filling
     - vent location
   - [bubbles](http://academy.cba.mit.edu/classes/molding_casting/bubbles.png)
-    - stirring, pouring, vibrating, painting, [vacuum](https://www.smooth-on.com/products/vacuum-chamber/), [pressure](https://www.smooth-on.com/products/pressure-chamber/), time
+    - stirring, pouring, [vibrating](https://www.artmolds.com/studio-equipment/mold-making-equipment.html), painting, [vacuum](https://www.smooth-on.com/products/vacuum-chamber/), [pressure](https://www.smooth-on.com/products/pressure-chamber/), time
   - curing
     - polymerization
     - cross-linking
@@ -88,3 +92,9 @@
   - design a mold around the stock and tooling that you'll be using,
   - mill it (rough cut + (at least) three-axis finish cut),
   - and use it to cast parts
+
+  ## examples
+- [Marwa](http://fabacademy.org/2020/labs/kamplintfort/students/marwa-baalouche/class10.html)
+- [Kais](http://fabacademy.org/2020/labs/kamplintfort/students/kais-alila/assignments/week10/)
+- [Kok Eng](http://fab.academany.org/2020/labs/singapore/students/engting-kok/exercise15.html)
+- [Noel](http://fab.academany.org/2020/labs/singapore/students/noel-kristian/exercise15.html)
