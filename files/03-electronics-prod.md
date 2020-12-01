@@ -123,6 +123,7 @@
 - [Zadig software: **libusb-win32**](http://zadig.akeo.ie/)
 - [Arduino Uno as ISP](https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829)
 - [AVR toolchain download](https://www.microchip.com/mplab/avr-support/avr-and-arm-toolchains-c-compilers)
+- [AVR toolchain (alt)](https://blog.zakkemble.net/avr-gcc-builds/)
 
 ## Recommended settings for Stepcraft
 
