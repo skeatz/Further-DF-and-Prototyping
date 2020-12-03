@@ -125,6 +125,8 @@
 ## CAM
 - [Fusion 360]
   - [CAM for CNC beginners](https://www.instructables.com/Fusion-360-CAM-Tutorial-for-CNC-Beginners/)
+  - [CAM Basics](https://www.youtube.com/watch?v=lQ-MYnyxh7M)
+  - [Nesting parts](https://www.youtube.com/watch?v=TIBMX-oVasU)
   - [Fusion 360 CAM Setup](https://www.instructables.com/CNC-Router-CAM-Setup/)
   - [CAM lessons](http://cadcamlessons.com/fusion-360-cam-tutorial/)
   - [Fusion 360 CAM overview](https://skippy.org.uk/wp-content/uploads/09_CAM.pdf)
