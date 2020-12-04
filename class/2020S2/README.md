@@ -12,7 +12,7 @@
 
 - [Mason Goh]()
 
-- [Claire Lee]()
+- [Claire Lee](https://sp-claire.github.io/EP1001/)
 
 - [Danish Erhan](https://danish-erhan02.github.io/EP1001/)
 
@@ -20,4 +20,4 @@
 
 - [Muhammad Khairin]()
 
-- [Nur 'Arifah]()
+- [Nur 'Arifah](http://aloethere.github.io/EP1001/)
