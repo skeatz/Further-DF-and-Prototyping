@@ -29,6 +29,10 @@
 - mill it (rough cut + (at least) three-axis finish cut),
 - and use it to cast parts
 
+**Note:** 
+
+When generating gcode (post process) for the Stepcraft CNC using Fusion 360, select WinCNC as the post processor. **DO NOT** use Mach3 as the post processor.
+
 ## examples
 - [Marwa](http://fabacademy.org/2020/labs/kamplintfort/students/marwa-baalouche/class10.html)
 - [Kais](http://fabacademy.org/2020/labs/kamplintfort/students/kais-alila/assignments/week10/)
