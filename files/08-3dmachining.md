@@ -30,8 +30,11 @@
 - and use it to cast parts
 
 **Note:** 
-
-When generating gcode (post process) for the Stepcraft CNC using Fusion 360, select WinCNC as the post processor. **DO NOT** use Mach3 as the post processor.
+- When generating gcode (post process) for the Stepcraft CNC using Fusion 360, select WinCNC as the post processor. **DO NOT** use Mach3 as the post processor.
+- Alternatively, you can install the Stepcraft-UCCNC post processor for Fusion 360.
+  - Download the Stepcraft-UCCNC post processor from the [Fusion 360 Post Library](https://cam.autodesk.com/hsmposts)
+  - Unzip the **stepcraft uccnc.cps** file to your Fusion 360 CAM post processor folder
+  - [Installing personal post processor in Fusion 360](https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/How-to-add-a-Post-Processor-to-your-Personal-Posts-in-Fusion-360.html)
 
 ## examples
 - [Marwa](http://fabacademy.org/2020/labs/kamplintfort/students/marwa-baalouche/class10.html)

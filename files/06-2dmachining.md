@@ -135,6 +135,7 @@
   - [Getting Started - Wing Rib](https://www.vectric.com/support/tutorials/vcarve-pro?category=TutorialCategories&playlist=GettingStarted)
   - [Importing vectors - 3 Legged table](https://www.vectric.com/support/tutorials/vcarve-pro?category=TutorialCategories&playlist=VectorDrawing)
   - [2D toolpaths - 3 Legged table](https://www.vectric.com/support/tutorials/vcarve-pro?category=TutorialCategories&playlist=2DToolpaths)
+  - [VCarve Pro for Beginners](https://www.youtube.com/watch?v=qt0CPmxFH0s)
 - [FeatureCAM](http://www.featurecam.com/)
 - [Mastercam](http://www.mastercam.com/en-us/)
 - [HSMWorks](http://www.hsmworks.com/)
@@ -163,6 +164,11 @@
 - look, listen
 - don't reach into a powered tool
 - emergency stop, assistance
+
+## Note:
+- EAS Versatil has a post-processor setup for Fusion 360. Click [here](https://github.com/timschneider/CNCGraf7Post) for the link. 
+  - Download the zip file, extract **nceasy.cps** and move it to your post-processor folder.
+  - [Installing personal post processors in Fusion 360](https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/How-to-add-a-Post-Processor-to-your-Personal-Posts-in-Fusion-360.html)
 
 ## assignment
 - group assignment
