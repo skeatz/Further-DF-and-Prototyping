@@ -79,6 +79,7 @@
     - software
       - [pyupdi](https://github.com/mraardvark/pyupdi)
            install: pip3 install intelhex pylint pyserial
+           
            program: python3 pyupdi.py -d your_processor -c your_port -b your_baud_rate -f your_hex -v
       - hardware
         - [hello.serial-UPDI.FT230X](http://academy.cba.mit.edu/classes/embedded_programming/UPDI/FTDI-UPDI) [board](http://academy.cba.mit.edu/classes/embedded_programming/UPDI/FTDI-UPDI.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/UPDI/FTDI-UPDI.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/UPDI/FTDI-UPDI.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/UPDI/FTDI-UPDI.interior.png)
