@@ -53,7 +53,7 @@
   - [Mouser](https://www.mouser.sg/)
   - [RS Components](https://uk.rs-online.com/web/)
   - [Element14](https://sg.element14.com/)
-  - [SparkFun]j(http://www.sparkfun.com/)
+  - [SparkFun](http://www.sparkfun.com/)
   - [Adafruit](https://www.adafruit.com/)
 
 - [packages](https://www.microchip.com/en-us/support/package-drawings)
@@ -137,16 +137,30 @@
   - [Modkit](http://www.modk.it/)
 
 - [boards](https://pub.pages.cba.mit.edu/ring)
-  - [Atmel](http://www.digikey.com/product-detail/en/ATXMEGAE5-XPLD/ATXMEGAE5-XPLD-ND) [Adafruit](https://www.adafruit.com/product/46) [Sparkfun](https://www.sparkfun.com/categories/1) [Polulu](https://www.pololu.com/category/149/a-star-programmable-controllers) [MattairTech](https://www.mattairtech.com/)
+  - [Atmel](http://www.digikey.com/product-detail/en/ATXMEGAE5-XPLD/ATXMEGAE5-XPLD-ND) 
+  - [Adafruit](https://www.adafruit.com/product/46) 
+  - [Sparkfun](https://www.sparkfun.com/categories/1) 
+  - [Polulu](https://www.pololu.com/category/149/a-star-programmable-controllers) 
+  - [MattairTech](https://www.mattairtech.com/)
 
 - [Arduino](http://www.arduino.cc/)
   - board + toolchain + libraries + IDE + bootloader + header
   - programming
-    - [C++](https://arduino.github.io/arduino-cli/latest/sketch-build-process/) [Create](https://create.arduino.cc/) [Codebender](https://codebender.cc/) [Ardublock](http://blog.ardublock.com/)
+    - [C++](https://arduino.github.io/arduino-cli/latest/sketch-build-process/) 
+    - [Create](https://create.arduino.cc/) 
+    - [Codebender](https://codebender.cc/) 
+    - [Ardublock](http://blog.ardublock.com/)
   - original
-    - [Fabkit](http://archive.fabacademy.org/archives/2016/doc/projects/fabkit-0.4.html) [Fabio](http://makeyourbot.wikidot.com/fabio-1-1) [satshakit](https://github.com/satshakit) [hello.328P](http://academy.cba.mit.edu/classes/embedded_programming/hello.arduino.328P.png)
+    - [Fabkit](http://archive.fabacademy.org/archives/2016/doc/projects/fabkit-0.4.html) 
+    - [Fabio](http://makeyourbot.wikidot.com/fabio-1-1) 
+    - [satshakit](https://github.com/satshakit) 
+    - [hello.328P](http://academy.cba.mit.edu/classes/embedded_programming/hello.arduino.328P.png)
   - [cores](https://www.arduino.cc/en/guide/cores)
-    - [ATtiny](https://github.com/SpenceKonde/ATTinyCore) [tinyAVR](https://github.com/SpenceKonde/megaTinyCore) [SAMD](https://github.com/mattairtech/ArduinoCore-samd) [ESP8266](https://github.com/esp8266/Arduino) [ESP32](https://github.com/espressif/arduino-esp32)
+    - [ATtiny](https://github.com/SpenceKonde/ATTinyCore) 
+    - [tinyAVR](https://github.com/SpenceKonde/megaTinyCore) 
+    - [SAMD](https://github.com/mattairtech/ArduinoCore-samd) 
+    - [ESP8266](https://github.com/esp8266/Arduino) 
+    - [ESP32](https://github.com/espressif/arduino-esp32)
 
 - clocks
   - types
@@ -154,13 +168,15 @@
     - ceramic (0.5%)
     - quartz (50 ppm)
   - PLL
-  - [Crystal](https://www.digikey.com/en/products/detail/ndk-america-inc/NX5032GA-20-000000MHZ-LN-CD-1/1128821?s=N4IgTCBcDaIGwBYEFoCMAGAzATjcgcgCIgC6AvkA) [Resonator](https://www.digikey.com/en/products/detail/ecs-inc/ECS-CR2-20-00-B-TR/813196?s=N4IgTCBcDaIBoGECMSAMBOBAVAtAOQBEQBdAXyA) [difference](https://www.rfwireless-world.com/Terminology/Crystal-vs-Resonator.html)
+  - [Crystal](https://www.digikey.com/en/products/detail/ndk-america-inc/NX5032GA-20-000000MHZ-LN-CD-1/1128821?s=N4IgTCBcDaIGwBYEFoCMAGAzATjcgcgCIgC6AvkA), [Resonator](https://www.digikey.com/en/products/detail/ecs-inc/ECS-CR2-20-00-B-TR/813196?s=N4IgTCBcDaIBoGECMSAMBOBAVAtAOQBEQBdAXyA), [difference](https://www.rfwireless-world.com/Terminology/Crystal-vs-Resonator.html)
  
 - host communication
   - [RS232](http://academy.cba.mit.edu/classes/embedded_programming/serial.png)
     - bit timing
   - [VT100/ANSI/ISO/ECMA terminal](http://academy.cba.mit.edu/classes/embedded_programming/Ecma-048.pdf)
-    - [Minicom](http://alioth.debian.org/projects/minicom/) [Arduino](https://www.arduino.cc/reference/en/language/functions/communication/serial) [Putty](https://www.ssh.com/ssh/putty/)
+    - [Minicom](http://alioth.debian.org/projects/minicom/) 
+    - [Arduino](https://www.arduino.cc/reference/en/language/functions/communication/serial) 
+    - [Putty](https://www.ssh.com/ssh/putty/)
 
   - [USB](http://www.usb.org/home)
     - software
@@ -254,3 +270,8 @@
     - with as many different programming languages
          and programming environments as possible
 
+### Examples
+- [Steven](http://archive.fabacademy.org/fabacademy2016/fablabsingapore/students/98/exercise08.html)
+- [Adrian](http://fab.academany.org/2020/labs/leon/students/adrian-torres/week08.html)
+- [Yeo GS](http://fab.academany.org/2020/labs/singapore/students/gausiong-yeo/exercise08.html)
+- [Yeo GS](http://fab.academany.org/2020/labs/singapore/students/noel-kristian/exercise08.html)
