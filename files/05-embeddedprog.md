@@ -25,6 +25,8 @@
   - USB
   - ...
 
+![MCU Peripherals](../images/05_avrcpu-bus.png)
+
 - word size
   - 8
   - 16
@@ -36,6 +38,7 @@
   - [PIC](https://www.microchip.com/design-centers/microcontrollers)
   - [MSP](http://www.ti.com/lsds/ti/microcontroller/16-bit_msp430/overview.page)
   - [AVR](https://www.microchip.com/design-centers/8-bit/microchip-avr-mcus)
+    - [MCU Quick Reference Guide](https://ww1.microchip.com/downloads/en/DeviceDoc/30010135E.pdf)
     - [ATtiny412](https://www.digikey.com/product-detail/en/microchip-technology/ATTINY412-SSFR/ATTINY412-SSFRCT-ND),  [ATtiny45](http://www.digikey.com/product-detail/en/ATTINY45V-10SU/ATTINY45V-10SU-ND)
     - [ATtiny1614](https://www.digikey.com/product-detail/en/microchip-technology/ATTINY1614-SSNR/ATTINY1614-SSNRCT-ND), [ATtiny44](http://www.digikey.com/product-detail/en/ATTINY44A-SSU/ATTINY44A-SSU-ND)
     - [ATtiny3216](https://www.digikey.com/product-detail/en/microchip-technology/ATTINY3216-SFR/ATTINY3216-SFRCT-ND), [ATmega328](https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA328PB-AU/5638812)
@@ -65,6 +68,8 @@
   - LQFP
   - BGA
 
+![IC packaging](../images/05_ic-packaging.jpg)
+
 - in-system development
   - ISP (AVR)
     - software
@@ -81,6 +86,7 @@
            install: pip3 install intelhex pylint pyserial
            
            program: python3 pyupdi.py -d your_processor -c your_port -b your_baud_rate -f your_hex -v
+           
       - hardware
         - [hello.serial-UPDI.FT230X](http://academy.cba.mit.edu/classes/embedded_programming/UPDI/FTDI-UPDI) [board](http://academy.cba.mit.edu/classes/embedded_programming/UPDI/FTDI-UPDI.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/UPDI/FTDI-UPDI.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/UPDI/FTDI-UPDI.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/UPDI/FTDI-UPDI.interior.png)
         - [hello.USB-UPDI.FT230X](http://academy.cba.mit.edu/classes/embedded_programming/FTDI/USB-FT230XS-UPDI) [board](http://academy.cba.mit.edu/classes/embedded_programming/FTDI/USB-FT230XS-UPDI.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/FTDI/USB-FT230XS-UPDI.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/FTDI/USB-FT230XS-UPDI.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/FTDI/USB-FT230XS-UPDI.interior.png)
