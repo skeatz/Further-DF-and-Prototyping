@@ -87,4 +87,8 @@
 - write an application that interfaces a user with an input &/or output device that you made
 
 ### examples
-
+- [Louis](http://archive.fabacademy.org/fabacademy2017/fablabsingapore/students/216/exercise16.html)
+- [Noel](http://fab.academany.org/2020/labs/singapore/students/noel-kristian/exercise12.html)
+- [Rodney](http://fabacademy.org/archives/2015/as/students/dorville.rodney/c14_interface_programming.html)
+- [Shinnosuke](http://archive.fabacademy.org/2016/fablabkyushu/students/174/exercise16.html)
+- [Fab Academy Input Devices](http://academy.cba.mit.edu/classes/input_devices/index.html)
