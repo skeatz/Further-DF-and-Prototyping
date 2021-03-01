@@ -2,7 +2,7 @@
 
 | Name | Website | Slide | Video |
 | ---- | ------- | ----- | ----- |
-| Rachel Cheng | [https://raeyyyychael.github.io/EP1001/](https://raeyyyychael.github.io/EP1001/) | [slide](https://docs.google.com/presentation/d/1Kmpq68FCSEVTZCMz1EQ3kdWP_ZDhTOSNqZuQywRLyug/edit?usp=sharing) | [video](https://photos.app.goo.gl/mAose8AZNAnorLjN8)
+| Rachael Cheng | [https://raeyyyychael.github.io/EP1001/](https://raeyyyychael.github.io/EP1001/) | [slide](https://docs.google.com/presentation/d/1Kmpq68FCSEVTZCMz1EQ3kdWP_ZDhTOSNqZuQywRLyug/edit?usp=sharing) | [video](https://photos.app.goo.gl/mAose8AZNAnorLjN8)
 | Gabriel Asaween | [https://gabriel-as.github.io/EP1001-SP/Main.html](https://gabriel-as.github.io/EP1001-SP/Main.html) | [slide](https://github.com/Gabriel-AS/EP1001-SP/blob/main/Slide2.jpg) | [video](https://www.youtube.com/watch?v=GOsc-ymUFJg)
 | Muhammad Fadhli | [http://Darksnowle.github.io/EP1001](http://Darksnowle.github.io/EP1001) | [slide](https://darksnowle.github.io/EP1001/final.html) | [video](https://darksnowle.github.io/EP1001/final.html)
 | Voo Zhan Li | [https://v00zhanli.github.io/EP1001/](https://v00zhanli.github.io/EP1001/) | [slide](https://github.com/V00ZhanLi/EP1001/blob/main/poster.png) | [video](https://www.youtube.com/watch?v=HIc7o3mN3Mg)
