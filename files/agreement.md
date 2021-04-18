@@ -17,6 +17,7 @@
 
 **I am an EP1001 Further Digital Fabrication & Prototyping student, responsible for:**
 
+
 - Attending class lectures and participating in reviews
 - Developing and documenting projects assigned to introduce and demonstrate skills
 - Honestly reporting on my work, and appropriately attributing the work of others
