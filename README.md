@@ -36,9 +36,9 @@ Assessment will be based on exercises and projects through three in-course asses
 
 *4. [Electronics Design](files/04-electronics-design.md)*
 
-*5. [Embedded Programming](files/05-embeddedprog.md)*
+*5. [2D Computer Controlled Machining](files/06-2dmachining.md)*
 
-*6. [2D Computer Controlled Machining](files/06-2dmachining.md)*
+*6. [Embedded Programming](files/05-embeddedprog.md)*
 
 *7. [Molding & Casting](files/07-moldingcasting.md)*
 
@@ -46,9 +46,7 @@ Assessment will be based on exercises and projects through three in-course asses
 
 *9. [Interface & Applications Programming](files/09-applications.md)*
 
-*10. [Introduction to IoT](files/10-iot.md)*
-
-*11. [Project](files/11-project.md)*
+*10. [Project](files/11-project.md)*
 
 
 **Tutorials & Links**

@@ -42,6 +42,11 @@
   - [Glowing Coffee Table](http://fabacademy.org/2018/labs/fablabuae/students/zahrah-alyahyaee/presentation.mp4)
   - [Smart Ambience Lighting](http://archive.fabacademy.org/fabacademy2017/fablabsingapore/students/135/presentation.mp4)
   - [Smart Earrings](http://fab.academany.org/2020/labs/kamakura/students/toshiki-tsuchiyama/presentation.mp4)
+
+## [Lab and Student Agreement](agreement.md)
+- Make a copy of the student agreement
+- Add your name to it and include it in your website (About page)
+- By adding the student agreement to your website, it means that you have agreed to the terms and conditions stated in this agreement 
   
 ## Assignment
 Create the github repository and website for this module and pm the link for your website to me Telegram  group:
