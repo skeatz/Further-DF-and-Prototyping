@@ -119,6 +119,7 @@
   - test it
   - [ISP Programmer Example](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/index.html)
   - FTDI example: [board](../images/02_ch330n_ftdi_board.png) [components](../images/02_ch330n_ftdi_components.jpg) [trace](../images/02_ch330-ftdi_traces.png) [outline](../images/02_ch330-ftdi_outline.png)
+  - FTDI-to-UDPI interface board: [board](../images/03_ftdi2updi.png) [components](../images/03_ftdi2updi_components.jpg) [trace](../images/03_ftdi2updi_traces.png) [outline](../images/03_ftdi2updi_outline.png)
 - [Windows Toolchain installation](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/windows_avr.html)
 - [Zadig software: **libusb-win32**](http://zadig.akeo.ie/)
 - [Arduino Uno as ISP](https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829)
