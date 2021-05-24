@@ -76,6 +76,8 @@
 - step-over: ~ tool diameter/2
 - [Shopbot Feeds & Speeds charts](https://www.shopbottools.com/ShopBotDocs/files/FeedsandSpeeds.pdf)
 - [CNC Cookbook Speeds & Feeds](https://www.cnccookbook.com/feeds-speeds/)
+- Cutter Shop: [Chip Load chart](https://www.cutter-shop.com/information/chip-load-chart.html), [speeds & feed](https://www.cutter-shop.com/information/speed-and-feeds-calculator.html)
+- [CBA - MIT Speeds & Feed calculator](https://pub.pages.cba.mit.edu/feed_speeds/)
 
 ## [lubricants](http://www.mcmaster.com/#machining-lubricants)
 
