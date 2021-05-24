@@ -85,7 +85,7 @@
 - vises
 - clamps
 - screws
-- [vacuum](https://www.cnccookbook.com/router-vacuum-table-cnc-diy/) [DIY vacuum table](http://fab.academany.org/2019/labs/ulb/students/axel-cornu/assignments/week08.html)
+- [vacuum](https://www.cnccookbook.com/router-vacuum-table-cnc-diy/), [DIY vacuum table](http://fab.academany.org/2019/labs/ulb/students/axel-cornu/assignments/week08.html)
 - wedges
 - weights
 - glue
