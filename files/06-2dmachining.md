@@ -79,6 +79,8 @@
 - Cutter Shop: [Chip Load chart](https://www.cutter-shop.com/information/chip-load-chart.html), [speeds & feed](https://www.cutter-shop.com/information/speed-and-feeds-calculator.html)
 - [CBA - MIT Speeds & Feed calculator](https://pub.pages.cba.mit.edu/feed_speeds/)
 
+![Chip Loads](../images/06_chip-loads.png)
+
 ## [lubricants](http://www.mcmaster.com/#machining-lubricants)
 
 ## [abrasive machining](http://www.mcmaster.com/#abrasive-powders), [grinding](https://www.grinding.com/)
@@ -149,7 +151,7 @@
 ## file formats
 - [.rml](http://academy.cba.mit.edu/classes/computer_machining/sample.rml)
 - [.sbp](http://academy.cba.mit.edu/classes/computer_machining/sample.sbp)
-- [.g](http://academy.cba.mit.edu/classes/computer_machining/sample.g)
+- [.g, .nc, .tap](http://academy.cba.mit.edu/classes/computer_machining/sample.g)
 - [Omax .ord](http://academy.cba.mit.edu/classes/computer_machining/sample.ord)
 - viewers
   - [CAMotics](https://camotics.org/)
