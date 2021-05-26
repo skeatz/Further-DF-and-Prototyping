@@ -106,7 +106,9 @@
 
 ## [flexures, living hinges](http://academy.cba.mit.edu/classes/computer_cutting/flexures.png), [kerf bending](https://makezine.com/2009/06/13/kerf-bending-for-cnc-millers/), [steam bending](https://www.google.com/search?q=steam+bending&tbm=isch)
 
-## [joinery](https://www.thingiverse.com/thing:169723)
+## Joinery
+- [Traditional Japanese joints](https://www.thingiverse.com/thing:169723)
+- [Opendesk digitally remastered joinery](https://www.opendesk.cc/blog/digitally-remastered-joinery)
 
 ## [toolpaths](https://www.cnccookbook.com/complete-guide-to-cam-toolpaths-and-operations-for-milling-in-2020/)
 - kerf, offset, runout
@@ -125,6 +127,9 @@
 - [simulation](https://www.coursera.org/lecture/fusion-360-integrated-cad-cam-cae/toolpath-simulation-4nBmV)
 - prototyping
 - [2D CNC milling toolpaths](https://www.autodesk.com/products/fusion-360/blog/10-2d-cnc-milling-toolpaths/)
+- Opendesk Examples
+  - [Design for CNC](https://www.opendesk.cc/blog/design-for-open-making-and-cnc-milling-machines)
+  - [common cut types](https://www.opendesk.cc/blog/cnc-machines-and-common-cut-types)
 
 ## CAM
 - [Fusion 360]
