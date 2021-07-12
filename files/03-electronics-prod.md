@@ -118,6 +118,10 @@
   - make an [in-circuit programmer](http://academy.cba.mit.edu/classes/embedded_programming/index.html#programmers) by milling and stuffing the PCB,
   - test it
   - [ISP Programmer Example](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/index.html)
+    - [ISP programmer firmware source code](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/fts_firmware_bdm_v1.zip)
+    - [Atmel GNU toolchain for Windows](https://blog.zakkemble.net/avr-gcc-builds/)
+    - [compiled firmware hex file ATtiny45](fts_firmware_t45.hex)
+    - [compiled firmware hex file ATtiny85](fts_firmware_t85.hex)
   - FTDI example: [board](../images/02_ch330n_ftdi_board.png) [components](../images/02_ch330n_ftdi_components.jpg) [trace](../images/02_ch330-ftdi_traces.png) [outline](../images/02_ch330-ftdi_outline.png)
   - FTDI-to-UDPI interface board: [board](../images/03_ftdi2updi.png) [components](../images/03_ftdi2updi_components.jpg) [trace](../images/03_ftdi2updi_traces.png) [outline](../images/03_ftdi2updi_outline.png)
 - [Windows Toolchain installation](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/windows_avr.html)
