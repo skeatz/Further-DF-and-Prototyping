@@ -280,4 +280,4 @@
 - [Steven](http://archive.fabacademy.org/fabacademy2016/fablabsingapore/students/98/exercise08.html)
 - [Adrian](http://fab.academany.org/2020/labs/leon/students/adrian-torres/week08.html)
 - [Yeo GS](http://fab.academany.org/2020/labs/singapore/students/gausiong-yeo/exercise08.html)
-- [Yeo GS](http://fab.academany.org/2020/labs/singapore/students/noel-kristian/exercise08.html)
+- [Noel](http://fab.academany.org/2020/labs/singapore/students/noel-kristian/exercise08.html)
