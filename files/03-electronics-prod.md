@@ -116,19 +116,74 @@
   - [Group Assignment Example](http://fab.academany.org/2020/labs/singapore/group.assignments/assignment02.html)
 - individual assignment:
   - make an [in-circuit programmer](http://academy.cba.mit.edu/classes/embedded_programming/index.html#programmers) by milling and stuffing the PCB,
+
   - test it
+
   - [ISP Programmer Example](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/index.html)
-    - [ISP programmer firmware source code](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/fts_firmware_bdm_v1.zip)
-    - [Atmel GNU toolchain for Windows](https://blog.zakkemble.net/avr-gcc-builds/)
-    - [compiled firmware hex file ATtiny45](fts_firmware_t45.hex)
-    - [compiled firmware hex file ATtiny85](fts_firmware_t85.hex)
+
+    - Download firmware
+
+      - [ISP programmer firmware source code](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/fts_firmware_bdm_v1.zip)
+      - [compiled firmware hex file ATtiny45](fts_firmware_t45.hex)
+      - [compiled firmware hex file ATtiny85](fts_firmware_t85.hex)
+
+    - [Windows Toolchain installation](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/windows_avr.html)
+
+      1. Install git
+         - [Git for Windows download link](https://git-scm.com/download/win)
+
+      2. Install Atmel GNU toolchain
+
+         - [Atmel GNU toolchain for Windows](https://blog.zakkemble.net/avr-gcc-builds/)
+
+         - [AVR toolchain download (alt 1)](https://www.microchip.com/mplab/avr-support/avr-and-arm-toolchains-c-compilers)
+
+         - [AVR toolchain (alt 2)](https://blog.zakkemble.net/avr-gcc-builds/)
+
+      3. Install GNU Make
+
+         - [GNU Make download link](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/make-3.81.exe)
+
+      4. Install avrdude
+
+         - [avrdude for Windows 10 download link](https://github.com/mariusgreuel/avrdude)
+
+      5. [Update PATH environment variable](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/windows_avr.html)
+
+      6. Install driver (libusb-win32) for your programmer
+         - [Zadig software: **libusb-win32**](http://zadig.akeo.ie/)
+      7. **Sanity Check**
+         - Start *Git Bash* and open terminal window
+         - Type *make -v* and press Enter
+         - Type *avr-gcc --version* and press Enter
+         - Type *avrdude* and press Enter
+
+      - Uploading firmware to ISP programmer
+        1. Compiling firmware
+           - Unzip downloaded firmware to folder
+           - Open Makefile in text editor. Update *MCU = attiny45* line to the correct MCU (e.g. attiny85). Save and exit.
+           - Open a terminal window and navigate to the firmware folder.
+           - Type *make* and press Enter. You should see the compiled firmware, *fts_firmware.hex*
+        2. Connect working ISP programmer to your blank ISP programmer
+        3. Upload firmware to your ISP programmer
+           - Type *make flash* and press Enter to upload the *fts_firmware.hex* file to your ISP programmer.
+           - Type *make fuses* and press Enter to program the fuse settings on the MCU.
+        4. Check that Windows recognizes your ISP programmer
+           - Disconnect your ISP programmer board and plug it into a USB port on your notebook.
+           - Open Device Manager and check if Windows recognizes your ISP programmer. It should appear as *USBtinySPI*
+        5. Disable the reset fuse on the MCU
+           - Reconnect the programming cable to your ISP programmer for the final step (disable reset pin, make it an I/O pin)
+           - Type *make rstdisbl* and press Enter
+           - Congratulations. You have uploaded the ISP firmware to your programmer.
+        6. Check that you have the correct Windows driver
+           - Plug your ISP programmer to a USB port on your notebook
+           - Open Device Manager. Your programmer should appear under the *libusb-win32 device* as *USBtinySPI*
+      - Refer to [YeoGS](http://fab.academany.org/2020/labs/singapore/students/gausiong-yeo/exercise04.html) assignment in the link below if you are unsure of the steps.
+
   - FTDI example: [board](../images/02_ch330n_ftdi_board.png) [components](../images/02_ch330n_ftdi_components.jpg) [trace](../images/02_ch330-ftdi_traces.png) [outline](../images/02_ch330-ftdi_outline.png)
+
   - FTDI-to-UDPI interface board: [board](../images/03_ftdi2updi.png) [components](../images/03_ftdi2updi_components.jpg) [trace](../images/03_ftdi2updi_traces.png) [outline](../images/03_ftdi2updi_outline.png)
-- [Windows Toolchain installation](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/windows_avr.html)
-- [Zadig software: **libusb-win32**](http://zadig.akeo.ie/)
 - [Arduino Uno as ISP](https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829)
-- [AVR toolchain download](https://www.microchip.com/mplab/avr-support/avr-and-arm-toolchains-c-compilers)
-- [AVR toolchain (alt)](https://blog.zakkemble.net/avr-gcc-builds/)
 
 ## Recommended settings for Stepcraft
 
