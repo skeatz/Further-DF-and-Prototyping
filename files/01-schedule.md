@@ -1,7 +1,5 @@
-AY2021/2022 S1 Schedule
-
 # EP1001 Further Digital Fabrication & Prototyping
-## Course Schedule - AY2021 Semester 2
+## Course Schedule - AY2021/2022 Semester 2
 
 | Week | Date | Topic | Remarks |
 |:----:|:----:|-------|---------|
