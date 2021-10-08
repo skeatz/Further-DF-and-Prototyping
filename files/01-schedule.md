@@ -5,30 +5,29 @@ AY2021/2022 S1 Schedule
 
 | Week | Date | Topic | Remarks |
 |:----:|:----:|-------|---------|
-| 01 | 19 Apr 2021 | [Introduction, Review of Digital Fabrication Skills](02-intro-review.md)|
-| 02 | 26 Apr 2021 | [Electronics Production](03-electronics-prod.md) | 1 May - Labour Day|
-| 03 | 3 May 2021 | [Electronics Design](04-electronics-design.md) |
-| 04 | 10 May 2021 | [Electronics Design & Production](04-electronics-design.md) | 13 May - Hari Raya Puasa |
-| 05 | 17 May 2021 | [2D Computer Controlled Machining](06-2dmachining.md) | 
-| 06 | 24 May 2021 | [2D Routing (hands-on)](06-2dmachining.md) | 26 May - Vesak Day|
-| 07 | 31 May 2021 | [Embedded Programming](05-embeddedprog.md) | MST week|
-| 08 | 7 Jun 2021 | Mid-term break |
-| 09 | 14 Jun 2021 | Mid-term break |
-| 10 | 21 Jun 2021 | Mid-term break |
-| 11 | 28 Jun 2021 | [Molding & Casting](07-moldingcasting.md), [3D Machining](08-3dmachining.md)| |
-| 12 | 5 Jul 2021 | [Molding & Casting (hands-on)]()|
-| 13 | 12 Jul 2021 | Interface & Applications Programming |
-| 14 | 19 Jul 2021 | Interface & Applications Programming | 20 Jul - Hari Raya Haji|
-| 15 | 26 Jul 2021 | [Module Project](11-project.md)|
-| 16 | 2 Aug 2021 | Module project | 
-| 17 | 9 Aug 2021 | Module Project | 9 Aug - National Day |
-| 18 | 16 Aug 2021 | Presentation |
+| 01 | 18 Oct 2021 | [Introduction, Review of Digital Fabrication Skills](02-intro-review.md)|
+| 02 | 25 Oct 2021 | [Electronics Production](03-electronics-prod.md) |
+| 03 | 1 Nov 2021 | [Electronics Design](04-electronics-design.md) | 4 Nov - Diwali |
+| 04 | 8 Nov 2021 | [Electronics Design & Production](04-electronics-design.md) |
+| 05 | 15 Nov 2021 | [2D Computer Controlled Machining](06-2dmachining.md) | 
+| 06 | 22 Nov 2021 | [2D Routing (hands-on)](06-2dmachining.md) |
+| 07 | 29 Nov 2021 | [Embedded Programming](05-embeddedprog.md) | MST week|
+| 08 | 6 Dec 2021 | [Molding & Casting](07-moldingcasting.md), [3D Machining](08-3dmachining.md) |
+| 09 | 13 Dec 2021 | Mid-term break |
+| 10 | 20 Dec 2021 | Mid-term break | 25 Dec - Christmas |
+| 11 | 27 Dec 2021 | Mid-term break | 1 Jan - New Year |
+| 12 | 3 Jan 2022| [Molding & Casting (hands-on)]()|
+| 13 | 10 Jan 2022 | [Interface & Applications Programming](09-applications.md) |
+| 14 | 17 Jan 2022 | [Interface & Applications Programming](09-applications.md) |
+| 15 | 24 Jan 2022 | [Module Project](11-project.md)|
+| 16 | 31 Jan 2022| Module project | 1-2 Feb - Chinese New Year |
+| 17 | 7 Feb 2022 | Module Project |
+| 18 | 14 Feb 2022 | Presentation |
 
 
 
 ## Public Holidays
-* 1 May 2021 - Labour Day
-* 13 May 2021 - Hari Raya Puasa
-* 26 May 2021 - Vesak Day
-* 20 Jul 2021 - Hari Raya Haji
-* 9 Aug 2021 - National Day
+* 4 Nov 2021 - Diwali
+* 25 Dec 2021 - Christmas Day
+* 1 Jan 2022 - New Year Day
+* 1-2 Feb 2022 - Chinese New Year
