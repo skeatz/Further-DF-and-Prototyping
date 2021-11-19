@@ -182,6 +182,7 @@
 ## assignment
 - group assignment
   - test runout, alignment, speeds, feeds, and toolpaths for your machine
+  - [kerf test (12mm)](cnc-kerfing_12mm.zip)
 - individual assignment
   - make (design+mill+assemble) something big
 - Fusion 360 CAM examples
