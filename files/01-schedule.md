@@ -9,8 +9,8 @@
 | 04 | 8 Nov 2021 | [Electronics Design & Production](04-electronics-design.md) |
 | 05 | 15 Nov 2021 | [2D Computer Controlled Machining](06-2dmachining.md) | 
 | 06 | 22 Nov 2021 | [2D Routing (hands-on)](06-2dmachining.md) |
-| 07 | 29 Nov 2021 | [Embedded Programming](05-embeddedprog.md) | MST week|
-| 08 | 6 Dec 2021 | [Molding & Casting](07-moldingcasting.md), [3D Machining](08-3dmachining.md) |
+| 07 | 29 Nov 2021 | [Embedded Programming](05-embeddedprog.md) | 
+| 08 | 6 Dec 2021 | [Molding & Casting](07-moldingcasting.md), [3D Machining](08-3dmachining.md) | MST week|
 | 09 | 13 Dec 2021 | Mid-term break |
 | 10 | 20 Dec 2021 | Mid-term break | 25 Dec - Christmas |
 | 11 | 27 Dec 2021 | Mid-term break | 1 Jan - New Year |
