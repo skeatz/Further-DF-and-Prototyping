@@ -92,3 +92,8 @@
 - [Rodney](http://fabacademy.org/archives/2015/as/students/dorville.rodney/c14_interface_programming.html)
 - [Shinnosuke](http://archive.fabacademy.org/2016/fablabkyushu/students/174/exercise16.html)
 - [Fab Academy Input Devices](http://academy.cba.mit.edu/classes/input_devices/index.html)
+- [Processing](https://processing.org/tutorials/electronics)
+- [P5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
+- Python
+   - [LED Control](http://arduinolearning.com/code/led-control-with-arduino-and-python-tkinter.php), [RGB led](https://www.hackster.io/BogdanFlr/rgb-led-control-with-arduino-and-python-tkinter-4b2969)
+   - [PyFirmata](https://realpython.com/arduino-python/)
