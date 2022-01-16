@@ -93,10 +93,12 @@
 - [Shinnosuke](http://archive.fabacademy.org/2016/fablabkyushu/students/174/exercise16.html)
 - [Mitalee](https://fabacademy.org/2020/labs/barcelona/students/mitalee-parikh/Interface%20%26%20Application%20Programming/)
 - [Fab Academy Input Devices](http://academy.cba.mit.edu/classes/input_devices/index.html)
-- [Processing tutorial](https://processing.org/tutorials/electronics)
-- [Arduino Radar project](https://howtomechatronics.com/projects/arduino-radar-project/)
+- Processing
+   - [Processing tutorial](https://processing.org/tutorials/electronics)
+   - [Arduino Radar project](https://howtomechatronics.com/projects/arduino-radar-project/)
 - [P5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
 - Python
-   - [Tkinter tutorial](https://www.w3schools.in/python-tutorial/gui-programming/) 
+   - [W3Schools Tkinter tutorial](https://www.w3schools.in/python-tutorial/gui-programming/) 
+   - [Readthedocs Tkinter tutorial](https://python-textbok.readthedocs.io/en/1.0/Introduction_to_GUI_Programming.html#)
    - [LED Control](http://arduinolearning.com/code/led-control-with-arduino-and-python-tkinter.php), [RGB led](https://www.hackster.io/BogdanFlr/rgb-led-control-with-arduino-and-python-tkinter-4b2969)
    - [PyFirmata](https://realpython.com/arduino-python/)
