@@ -103,7 +103,7 @@
    - [Readthedocs Tkinter tutorial](https://python-textbok.readthedocs.io/en/1.0/Introduction_to_GUI_Programming.html#)
    - [Tkdocs Tutorial](https://tkdocs.com/tutorial/index.html)
    - [Pythonguides Tkinter tutorial](https://pythonguides.com/python-gui-programming/)
-   - [Pythonguides Tkinter canvas](https://pythonguides.com/python-tkinter-canvas/)
+   - [PythonGuides Tkinter canvas](https://pythonguides.com/python-tkinter-canvas/)
    - [Tkinter Canvas tutorial](https://pythonguides.com/python-tkinter-canvas/)
    - [LED Control](http://arduinolearning.com/code/led-control-with-arduino-and-python-tkinter.php), [RGB led](https://www.hackster.io/BogdanFlr/rgb-led-control-with-arduino-and-python-tkinter-4b2969)
    - [More LED Control](https://pythonforundergradengineers.com/python-arduino-potentiometer.html)
