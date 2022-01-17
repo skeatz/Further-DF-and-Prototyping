@@ -105,4 +105,5 @@
    - [Pythonguides Tkinter canvas](https://pythonguides.com/python-tkinter-canvas/)
    - [Tkinter Canvas tutorial](https://pythonguides.com/python-tkinter-canvas/)
    - [LED Control](http://arduinolearning.com/code/led-control-with-arduino-and-python-tkinter.php), [RGB led](https://www.hackster.io/BogdanFlr/rgb-led-control-with-arduino-and-python-tkinter-4b2969)
+   - [More LED Control](https://pythonforundergradengineers.com/python-arduino-potentiometer.html)
    - [PyFirmata](https://realpython.com/arduino-python/)
