@@ -37,6 +37,7 @@
 - [wxWidgets](http://wxwidgets.org/), [wxPython](http://www.wxpython.org/)
   - [panel_png_path.py](http://kokompe.cba.mit.edu/index.html)
 - [Qt](https://www.qt.io/), [PyQt](http://wiki.python.org/moin/PyQt)
+- [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/#jump-start)
 - [forms](http://www.w3.org/TR/html5/forms.html)
 - [jQuery](http://jqueryui.com/widget/), [Bootstrap](http://getbootstrap.com/)
 - [Angular](https://angularjs.org/)
