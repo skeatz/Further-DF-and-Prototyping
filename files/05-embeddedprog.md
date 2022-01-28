@@ -50,6 +50,10 @@
    - PSoC, xCORE, Propeller, Lattice, NVIDIA
    - [RISC-V](https://cacm.acm.org/magazines/2020/5/244325-will-risc-v-revolutionize-computing/fulltext)
 
+- Articles
+  - [Getting Started with the new ATtiny chips](http://www.technoblogy.com/show?2OCH)
+  - [Fabricable Arduino boards](https://fabacademy.org/archives/2015/doc/projects/satshakit/satshakit.html)
+
 - vendors
   - [Octopart](http://octopart.com/)
   - [DigiKey](https://www.digikey.sg/)
