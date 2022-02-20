@@ -13,8 +13,6 @@
 | Ethan Ng | [website](https://hypernebula03.github.io/FDFAB-Website/) | [slide](https://hypernebula03.github.io/FDFAB-Website/presentation.png) | [video](https://hypernebula03.github.io/FDFAB-Website/presentation.mp4)
 | Ashley Ong | [website](https://zenilamaris.github.io/polyprojects/) | [slide](https://zenilamaris.github.io/polyprojects/presentation.png) | [video](https://zenilamaris.github.io/polyprojects/presentation.mp4)
 | Jerrick Toh | [website](https://kingduckling01.github.io/FurtherDFAB/) | [slide](https://kingduckling01.github.io/FurtherDFAB/presentation.png) | [video](https://kingduckling01.github.io/FurtherDFAB/presentation.mp4)
-|  | [website](https://plsspeccify.github.io/EP1001/) | [slide](https://plsspeccify.github.io/EP1001/img/Poster.png) | [video](https://youtu.be/w-IJBAgEARM)
-
 
 ### Documentation Status
 
