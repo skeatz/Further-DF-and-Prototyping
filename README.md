@@ -57,7 +57,10 @@ Assessment will be based on exercises and projects through three in-course asses
 
 *3. [More Project Examples](files/more-examples.md)*
 
-*4. ## Class*
-    - [AY2020 Sem 2](class/2020S2/README.md)
-    - [AY2021 Sem 1](class/2021S1/README.md)
-    - [AY2021 Sem 2](class/2021S2/README.md)
+*4. Class*
+
+ - [AY2020 Sem 2](class/2020S2/README.md)
+   
+ - [AY2021 Sem 1](class/2021S1/README.md)
+   
+ - [AY2021 Sem 2](class/2021S2/README.md)
