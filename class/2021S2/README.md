@@ -7,7 +7,7 @@
 | Yew Zi Hon | [website](https://yewzihon.github.io/EP1001/) | [slide](https://yewzihon.github.io/EP1001/finalPro.html#slide) | [video](https://yewzihon.github.io/EP1001/finalPro.html#video)
 | Xavier Leong | [website](https://vxidbvx.github.io/ep1001/) | [slide](https://vxidbvx.github.io/ep1001/presentation.png) | [video](https://vxidbvx.github.io/ep1001/presentation.mp4)
 | Janesse Tiang | [website](https://jan-tz.github.io/EP1001/) | [slide](https://jan-tz.github.io/EP1001/presentation.png) | [video](https://jan-tz.github.io/EP1001/presentation.mp4)
-| Lynn MM Aung | [website](https://lynn-mma.github.io/EP1001/) | [slide](https://lynn-mma.github.io/EP1001/presentation.png) | [video](https://lynn-mma.github.io/EP1001/presentation.png)
+| Lynn MM Aung | [website](https://lynn-mma.github.io/EP1001/) | [slide](https://lynn-mma.github.io/EP1001/presentation.png) | [video](https://lynn-mma.github.io/EP1001/presentation.mp4)
 | Ian Lim | [website](https://ianlimm.github.io/EP1001/) | [slide](https://ianlimm.github.io/EP1001/presentation.png) | [video](https://ianlimm.github.io/EP1001/presentation.mp4)
 | Justin LIm | [website](Justeenie.github.io/OOF/home.html) | [slide](Justeenie.github.io/OOF/presentation.png) | [video](Justeenie.github.io/OOF/presentation.mp4)
 | Ethan Ng | [website](https://hypernebula03.github.io/FDFAB-Website/) | [slide](https://hypernebula03.github.io/FDFAB-Website/presentation.png) | [video](https://hypernebula03.github.io/FDFAB-Website/presentation.mp4)
