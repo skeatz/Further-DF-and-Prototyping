@@ -30,5 +30,5 @@
 * 1 May 2022 - Labour Day
 * 3 May 2022 - Eid-al-Fitr (Hari Raya Puasa)
 * 15 May 2022 - Vesak Day
-* 10 Jul 2022 - Eid-al-Adha (Hari Raya Puasa)
+* 10 Jul 2022 - Eid-al-Adha (Hari Raya Haji)
 * 9 Aug 2022 - National Day
