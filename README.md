@@ -64,3 +64,5 @@ Assessment will be based on exercises and projects through three in-course asses
  - [AY2021 Sem 1](class/2021S1/README.md)
    
  - [AY2021 Sem 2](class/2021S2/README.md)
+ 
+ - [AY2022 Sem 1](class/2022S1/README.md)
