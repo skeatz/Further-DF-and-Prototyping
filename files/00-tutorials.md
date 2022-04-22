@@ -16,5 +16,5 @@
 * Web Development
   - [Sample website (HTML/CSS)](https://skeatz.github.io/DFabWeb/)
   - [Website template (HTML/CSS, zipped)](resources/website-template.zip)
-  - [Sample website (Jekyll/Markdown)](https://skeatz.github.io/web-pk/)
-  - [Website template (Jekyll/Markdown)](https://github.com/skeatz/web-pk)
+  - [Sample website (Jekyll/Markdown)](https://skeatz.github.io/EP1001-template/)
+  - [Website template (Jekyll/Markdown)](https://github.com/skeatz/EP1001-template)
