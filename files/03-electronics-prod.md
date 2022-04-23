@@ -63,7 +63,7 @@
 
 ## components
 - [through-hole](https://www.build-electronic-circuits.com/through-hole-components/)
-- [surface-mount](https://www.techopedia.com/definition/18622/chip-scale-package-csp)
+- [surface-mount](https://www.quick-pcba.com/pcb-news/types-of-smd-components.html)
 - [chip-scale](https://www.techopedia.com/definition/18622/chip-scale-package-csp)
 
 ## breadboards & other alternatives

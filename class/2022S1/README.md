@@ -5,7 +5,7 @@
 | ---- | ------- | ----- | ----- |
 | Jack Gao | [website](https://gaoshengyuanjack.github.io/ep1001-jackgao/) | [slide]() | [video]()
 | Adrian Chan | [website]() | [slide]() | [video]()
-| Amanda Lai | [website](https://amandaljx.github.io/EP1000/) | [slide]() | [video]()
+| Amanda Lai | [website](https://amandaljx.github.io/EP1001/) | [slide]() | [video]()
 | Carl Chan | [website](https://cchan6969.github.io/FDFAB-AY22-23-S1-Chan-Carl/index.html) | [slide]() | [video]()
 | Marcus Chia | [website]() | [slide]() | [video]()
 | Nur Zharfan | [website](https://zharkipas.github.io/Website/) | [slide]() | [video]()
