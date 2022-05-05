@@ -72,7 +72,7 @@
 - ATtiny45: [schematic](../images/04_t45_hello-board.png) [board](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.jpg)
 - ATtiny44: [schematic](../images/04_t44_hello-board.png) [board](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.components.jpg)
 - ATtiny412: [schematic](../images/04_t412_hello-board.png) [board](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.jpg)
-- [ATSAMD11 Boards collection](http://pub.fabcloud.io/programmers/summary/)
+- [Fabacademy Boards collection](http://pub.fabcloud.io/programmers/summary/)
 
 ## assignment (reference)
 - [Lucas](http://fab.academany.org/2020/labs/singapore/students/enghwalucas-lim/week6.html)
