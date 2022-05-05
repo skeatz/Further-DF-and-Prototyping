@@ -1,5 +1,6 @@
 # Electronics Design
 ## components
+- [Electronics refresher](https://rdorville.github.io/digfab/presentations/ep1000_electronics/ep1000_electronics.pdf)
 - inventory
   - [wire](http://www.digikey.com/product-search/en?x=0&y=0&lang=en&site=us&KeyWords=AE09M-300-ND%09)
   - [button](http://www.digikey.com/product-detail/en/B3SN-3112P/SW262CT-ND)
@@ -28,10 +29,12 @@
 
 ## electronics design (EDA) tools
 - Software packages
-  - [Autodesk Eagle](https://www.autodesk.com/products/eagle/overview)
-  - [Kicad](http://kicad-pcb.org/)
+  - [Autodesk Eagle](https://www.autodesk.com/products/eagle/free-download)
+  - [Kicad](https://www.kicad.org/)
   - [EasyEDA](https://easyeda.com/)
   - [Fusion 360 CAE](https://www.autodesk.com/products/eagle/blog/fusion-360-integration-eagle)
+  - [Altium Circuitmaker](https://www.altium.com/circuitmaker)
+  - [DesignSpark](https://www.rs-online.com/designspark/home)
   - [Fritzing](http://fritzing.org/home/)
 - packages, footprint, libraries
 - workflow
@@ -42,7 +45,7 @@
   - fabrication
 - design rules
 - routing layers, power planes, copper pour
-- libraries for this module: [fab library](https://gitlab.fabcloud.org/pub/libraries/electronics), [digikey](https://www.digikey.com/en/resources/design-tools/kicad), [SnapEDA](https://www.snapeda.com/)
+- libraries for this module: [fab library](https://gitlab.fabcloud.org/pub/libraries/electronics), [digikey (Kicad library)](https://www.digikey.com/en/resources/design-tools/kicad), [SnapEDA](https://www.snapeda.com/), [Sparkfun (Eagle library)](https://github.com/sparkfun/SparkFun-Eagle-Libraries), [Adafruit (Eagle library)](https://github.com/adafruit/Adafruit-Eagle-Library)
 
 ## Eagle Tutorial
 - [Schematic Capture](https://learn.sparkfun.com/tutorials/using-eagle-schematic)
@@ -50,6 +53,13 @@
 - [PCB-gcode](https://www.youtube.com/watch?v=DVKAV7udp3Y), [pcb-gcode (modified w/slice for outline milling)](https://github.com/McNugget6750/pcb-gcode)
 - [Custom SMD footprints](https://learn.sparkfun.com/tutorials/designing-pcbs-smd-footprints)
 - [How to create SMD-based PCBs](https://learn.sparkfun.com/tutorials/designing-pcbs-advanced-smd)
+- [Fusion 360 Electronics](https://help.autodesk.com/view/fusion360/ENU/?guid=ECD-TUTORIALS)
+- [Getting started with Fusion 360 Electronics](https://www.youtube.com/watch?v=eadcyToMdLg)
+
+## Kicad Tutorial
+- [Kicad Getting Started](https://docs.kicad.org/#_getting_started)
+- [Beginner's Guide to Kicad](https://learn.sparkfun.com/tutorials/beginners-guide-to-kicad)
+- [Arduino Pro Mini in Kicad](https://www.youtube.com/watch?v=w0Ov9XtYdCo)
 
 ## assignment
 - redraw an [echo hello-world board](http://academy.cba.mit.edu/classes/embedded_programming/index.html#echo)
@@ -62,6 +72,7 @@
 - ATtiny45: [schematic](../images/04_t45_hello-board.png) [board](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.jpg)
 - ATtiny44: [schematic](../images/04_t44_hello-board.png) [board](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.components.jpg)
 - ATtiny412: [schematic](../images/04_t412_hello-board.png) [board](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.jpg)
+- [ATSAMD11 Boards collection](http://pub.fabcloud.io/programmers/summary/)
 
 ## assignment (reference)
 - [Lucas](http://fab.academany.org/2020/labs/singapore/students/enghwalucas-lim/week6.html)
