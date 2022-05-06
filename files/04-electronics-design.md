@@ -45,7 +45,7 @@
   - fabrication
 - design rules
 - routing layers, power planes, copper pour
-- libraries for this module: [fab library](https://gitlab.fabcloud.org/pub/libraries/electronics), [digikey (Kicad library)](https://www.digikey.com/en/resources/design-tools/kicad), [SnapEDA](https://www.snapeda.com/), [Sparkfun (Eagle library)](https://github.com/sparkfun/SparkFun-Eagle-Libraries), [Adafruit (Eagle library)](https://github.com/adafruit/Adafruit-Eagle-Library)
+- libraries for this module: [fab library](https://gitlab.fabcloud.org/pub/libraries/electronics), [digikey (Kicad library)](https://www.digikey.com/en/resources/design-tools/kicad), [SnapEDA](https://www.snapeda.com/), [Sparkfun (Eagle library)](https://github.com/sparkfun/SparkFun-Eagle-Libraries), [Adafruit (Eagle library)](https://github.com/adafruit/Adafruit-Eagle-Library), [ATtiny412 eagle part](ATTINY412-SSN.lbr)
 
 ## Eagle Tutorial
 - [Schematic Capture](https://learn.sparkfun.com/tutorials/using-eagle-schematic)
