@@ -12,16 +12,12 @@
 - [Ikea Grow Room](https://mymodernmet.com/ikea-growroom-instructions/)
    
 ## machines
-- [Roland](http://www.rolanddga.com/products/3d/srm20/)
-- [Shaper](https://www.shapertools.com/)
+- [[Shaper](https://www.shapertools.com/)
 - [ShopBot](https://www.shopbottools.com/)
 - [EAS](http://www.im-machinery-asia.com.sg/versatil-125025002750-2/)
 - [Onsrud](https://www.cronsrud.com/cnc.html)
 - [Haas](https://www.haascnc.com/index.html)
-- [Zund](https://www.zund.com/en)
 - [Fellesverkstedet](https://github.com/fellesverkstedet/fabricatable-machines)
-- [MTM](http://mtm.cba.mit.edu/)
-
 
 ## stock
 - [rigid foam insulation](https://www.insulfoam.com/rigid-foam-insulation-types/)
@@ -58,7 +54,7 @@
 - drills vs mills
 - router, V bits
 - flutes
-- coatings
+- coatings: HSS, carbide, TiCN, TiAlN, etc.
 - center-cutting
 - [up/down cut](https://www.cnccookbook.com/cnc-router-cutters-types-and-how-to-use-them/)
 - flat/ball end
@@ -96,7 +92,6 @@
 - weights
 - glue
 - tape
-- encapsulation
 - vendors
   - [Precise Tooling System](https://precisetooling.com.sg/)
   - [Hup Hong Machinery](https://huphong.com.sg/product-category/sharpening-machine-for-drill-bit-and-saw-blade/drill-bit-sharpener/?gclid=Cj0KCQiAwMP9BRCzARIsAPWTJ_HkEwYOyG8yE-DW-oIlQOKwXfd9nsxha0V2UYK01sb35UOG_jAQ4HwaAq4fEALw_wcB)
@@ -127,7 +122,7 @@
 - lead-in, -out
 - [test cuts](http://fab.academany.org/2020/labs/singapore/group.assignments/assignment05.html), cutting air
 - [simulation](https://www.coursera.org/lecture/fusion-360-integrated-cad-cam-cae/toolpath-simulation-4nBmV)
-- prototyping
+- prototyping: [cardboard scale model](http://fab.academany.org/2020/labs/singapore/students/engting-kok/exercise07.html)
 - [2D CNC milling toolpaths](https://www.autodesk.com/products/fusion-360/blog/10-2d-cnc-milling-toolpaths/)
 - Opendesk Examples
   - [Design for CNC](https://www.opendesk.cc/blog/design-for-open-making-and-cnc-milling-machines)
@@ -153,7 +148,7 @@
 - [CAMWorks](https://camworks.com/)
 - [Freecad Path](https://www.freecadweb.org/wiki/Path_Workbench)
 - [Solidworks CAM](https://www.solidworks.com/product/solidworks-cam)
-- [mods](http://mods.cba.mit.edu/) [outline](http://academy.cba.mit.edu/classes/computer_machining/2D.mp4) [rough](http://academy.cba.mit.edu/classes/computer_machining/2.5D.mp4) [finish](http://academy.cba.mit.edu/classes/computer_machining/3D.mp4)
+- [mods](https://skeatz.github.io/mods-sc/) [outline](http://academy.cba.mit.edu/classes/computer_machining/2D.mp4) [rough](http://academy.cba.mit.edu/classes/computer_machining/2.5D.mp4) [finish](http://academy.cba.mit.edu/classes/computer_machining/3D.mp4)
 
 ## file formats
 - [.rml](http://academy.cba.mit.edu/classes/computer_machining/sample.rml)
