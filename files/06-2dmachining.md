@@ -142,6 +142,7 @@
   - [Importing vectors - 3 Legged table](https://www.vectric.com/support/tutorials/vcarve-pro?category=TutorialCategories&playlist=VectorDrawing)
   - [2D toolpaths - 3 Legged table](https://www.vectric.com/support/tutorials/vcarve-pro?category=TutorialCategories&playlist=2DToolpaths)
   - [VCarve Pro for Beginners](https://www.youtube.com/watch?v=qt0CPmxFH0s)
+  - [Beginner CNC](https://www.youtube.com/watch?v=l1oh8nekPu4)
 - [FeatureCAM](http://www.featurecam.com/)
 - [Mastercam](http://www.mastercam.com/en-us/)
 - [HSMWorks](http://www.hsmworks.com/)
