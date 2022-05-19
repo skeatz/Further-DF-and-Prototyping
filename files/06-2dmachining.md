@@ -3,6 +3,8 @@
 ## Quick References
 - [Introduction to CNC](https://www.3dhubs.com/knowledge-base/cnc-machining-manufacturing-technology-explained/)
 - [FablabSP CNC training materials](https://esp.sp.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_51997_1&content_id=_1547283_1)
+- [Makehaven CNC Milling I](https://docs.google.com/presentation/d/e/2PACX-1vQDCw06YwtPZXwY7lXZ5PmvVnK-_EOi2mXdK9fskMEipqkx9qXAdsPdtYPEdQXGj_RGMiMTxovjSRQo/pub?start=false&loop=false&delayms=3000#slide=id.p)
+- [Makehaven CNC Milling II](https://docs.google.com/presentation/d/e/2PACX-1vQRnxj6gtvdpeoyxN-pd57x2Vbmz-79GqDKTcKUtWiQCUsRXuskwm3iiYPfCMugeHZOVaK1b3X5sf1F/pub?start=false&loop=false&delayms=3000#slide=id.p)
 
 ## projects
 - [Standing Desk](https://www.forbes.com/sites/kerryflynn/2014/07/31/how-to-make-a-standing-desk-for-under-200-mit-grads-go-digital), [Opendesk](https://www.opendesk.cc/)
@@ -180,15 +182,12 @@
   - [Installing personal post processors in Fusion 360](https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/How-to-add-a-Post-Processor-to-your-Personal-Posts-in-Fusion-360.html)
 
 ## assignment
-- group assignment
-  - test runout, alignment, speeds, feeds, and toolpaths for your machine
-  - [kerf test (12mm)](cnc-kerfing_12mm.zip)
-- individual assignment
-  - make (design+mill+assemble) something big
+- document speeds & feeds calculation, recommended speeds/feeds for plywood, recommended kerf for machining [kerf test example](cnc-kerfing_12mm.zip) 
+- make (design+mill+assemble) something big, documenting your design process, generating the cam toolpath, machining and assembly process
 - Fusion 360 CAM examples
   - [Flat pack stool](https://www.youtube.com/watch?v=DHrP1MunhFw)
   - [Flat pack shoerack](https://www.youtube.com/watch?v=VJWz-exP4iY)
   - [Flat pack table](https://www.instructables.com/lesson/Flat-Pack-Table-Design/)
-- assignment (reference)
+- Examples of assignment
   - [noel](http://fab.academany.org/2020/labs/singapore/students/noel-kristian/exercise07.html)
   - [ting](http://fab.academany.org/2020/labs/singapore/students/engting-kok/exercise07.html)
