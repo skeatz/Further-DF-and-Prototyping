@@ -172,7 +172,8 @@
 - emergency stop, assistance
 
 ## Note:
-- EAS Versatil has a post-processor setup for Fusion 360. Click [here](https://github.com/timschneider/CNCGraf7Post) for the link. 
+- EAS Versatil has a post-processor setup for Fusion 360.
+  - Click [here](https://github.com/timschneider/CNCGraf7Post) for the link. 
   - Download the zip file, extract **nceasy.cps** and move it to your post-processor folder.
   - [Installing personal post processors in Fusion 360](https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/How-to-add-a-Post-Processor-to-your-Personal-Posts-in-Fusion-360.html)
 
