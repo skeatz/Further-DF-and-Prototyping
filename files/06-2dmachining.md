@@ -7,7 +7,7 @@
 - [Makehaven CNC Milling II](https://docs.google.com/presentation/d/e/2PACX-1vQRnxj6gtvdpeoyxN-pd57x2Vbmz-79GqDKTcKUtWiQCUsRXuskwm3iiYPfCMugeHZOVaK1b3X5sf1F/pub?start=false&loop=false&delayms=3000#slide=id.p)
 
 ## projects
-- [Standing Desk](https://www.forbes.com/sites/kerryflynn/2014/07/31/how-to-make-a-standing-desk-for-under-200-mit-grads-go-digital), [Opendesk](https://www.opendesk.cc/)
+- [Standing Desk](https://www.forbes.com/sites/kerryflynn/2014/07/31/how-to-make-a-standing-desk-for-under-200-mit-grads-go-digital), [Opendesk](https://www.opendesk.cc/), [AtFab](http://atfab.co/)
 - [Shelter 2.0](http://www.shelter20.com/), [yourHOUSE](http://blog.ted.com/digitally_fabbe/), [FabHouse](https://fablab.hochschule-rhein-waal.de/fabhouse-en), [Fab Lab House](https://archello.com/project/the-fab-lab-house)
 - [Ikea Grow Room](https://mymodernmet.com/ikea-growroom-instructions/)
    
