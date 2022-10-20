@@ -12,9 +12,9 @@
 | 07 | 2 Dec 2022 | [Embedded Programming](05-embeddedprog.md) | 
 | 08 | 9 Dec 2022 | [Molding & Casting](07-moldingcasting.md), [3D Machining](08-3dmachining.md) | MST week|
 | 09 | 16 Dec 2022 | Mid-term break |
-| 10 | 23 Dec 2022 | Mid-term break | 25 Dec - Christmas |
-| 11 | 30 Dec 2022 | Mid-term break | 1 Jan - New Year |
-| 12 | 6 Jan 2023 | [Molding & Casting (hands-on)]()|
+| 10 | 23 Dec 2022 | Mid-term break | 
+| 11 | 30 Dec 2022 | Mid-term break | 25 Dec - Christmas |
+| 12 | 6 Jan 2023 | [Molding & Casting (hands-on)]()| 1 Jan - New Year |
 | 13 | 13 Jan 2023 | [Interface & Applications Programming](09-applications.md) |
 | 14 | 20 Jan 2023 | [Interface & Applications Programming](09-applications.md) | 
 | 15 | 27 Jan 2023 | [Module Project](11-project.md)| 22 & 23 Jan - Chinese New Year |
