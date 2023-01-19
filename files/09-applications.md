@@ -111,4 +111,10 @@
    - [PySimpleGUI Robot vehicle](https://funprojects.blog/2020/02/18/pysimplegui-quick-and-easy-interfaces/)
    - [PyFirmata](https://realpython.com/arduino-python/)
    - [PyFirmata - Getting Started](https://realpython.com/arduino-python/)
+ other useful links
+   = [ITP Physical Computing](https://itp.nyu.edu/physcomp/lessons/)
+   - [ITP Physical Computing - Labs](https://itp.nyu.edu/physcomp/lessons/)
+   - [Processing - Electronics](https://processing.org/tutorials/electronics)
+   - [Makeability](https://makeabilitylab.github.io/physcomp/communication/serial-intro.html)
+   
    
