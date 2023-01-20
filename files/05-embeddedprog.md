@@ -40,7 +40,7 @@
   - [AVR](https://www.microchip.com/design-centers/8-bit/microchip-avr-mcus)
     - [MCU Quick Reference Guide](https://ww1.microchip.com/downloads/en/DeviceDoc/30010135E.pdf)
     - [ATtiny412](https://www.digikey.com/product-detail/en/microchip-technology/ATTINY412-SSFR/ATTINY412-SSFRCT-ND),  [ATtiny45](http://www.digikey.com/product-detail/en/ATTINY45V-10SU/ATTINY45V-10SU-ND)
-    - [ATtiny1614](https://www.digikey.com/product-detail/en/microchip-technology/ATTINY1614-SSNR/ATTINY1614-SSNRCT-ND), [ATtiny44](http://www.digikey.com/product-detail/en/ATTINY44A-SSU/ATTINY44A-SSU-ND)
+    - [ATtiny1614](https://www.digikey.com/product-detail/en/microchip-technology/ATTINY1614-SSNR/ATTINY1614-SSNRCT-ND), [ATtiny44](http://www.digikey.com/product-detail/en/ATTINY44A-SSU/ATTINY44A-SSU-ND) ![ATtiny1614 Arduino pinout](../images/05_attiny1614_ard-pinout.gif)
     - [ATtiny3216](https://www.digikey.com/product-detail/en/microchip-technology/ATTINY3216-SFR/ATTINY3216-SFRCT-ND), [ATmega328](https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA328PB-AU/5638812)
    - ARM
      - [D11C](https://www.digikey.com/products/en?keywords=ATSAMD11C14A-SSUTCT-ND), [D11D](https://www.digikey.com/products/en?keywords=ATSAMD11D14A-SSUTCT-ND)
@@ -207,7 +207,8 @@
         timing [blink.ino](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.blink.ino) [video](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.blink.mp4)
   - [hello.t412.echo](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.interior.png)<br>
         UART [echo.ino](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.ino) [video](http://academy.cba.mit.edu/classes/embedded_programming/t412/hello.t412.echo.mp4)
-
+  - Pinout (for Arduino IDE)
+    ![ATtiny412 Arduino pinout](../images/05_attiny412_ard-pinout.gif)
 - [ATtiny45](http://academy.cba.mit.edu/classes/embedded_programming/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf)
   - [hello.ftdi.45](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.interior.png) pin re-use<br>
         [ports](http://academy.cba.mit.edu/classes/embedded_programming/portwrite.html) [port.c](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.port.c) [port.make](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.port.make) [port.ino](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.port.ino) [port.write.ino](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.port.write.ino)<br>
@@ -216,6 +217,8 @@
 - [ATtiny1614](http://academy.cba.mit.edu/classes/embedded_programming/t1614/ATtiny1614-DataSheet-DS40001995B.pdf)
   - [hello.t1614.echo](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.interior.png)<br>
         [echo.ino](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.ino) [video](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.mp4)
+  - Pinout (for Arduino IDE)
+    ![ATtiny1614 pinout](../images/05_attiny1614_ard-pinout.gif)
 
 - [ATtiny44](http://academy.cba.mit.edu/classes/embedded_programming/8183s.pdf)
   - [hello.ftdi.44](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.components.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.interior.png)
