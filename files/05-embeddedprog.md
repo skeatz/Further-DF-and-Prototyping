@@ -40,7 +40,7 @@
   - [AVR](https://www.microchip.com/design-centers/8-bit/microchip-avr-mcus)
     - [MCU Quick Reference Guide](https://ww1.microchip.com/downloads/en/DeviceDoc/30010135E.pdf)
     - [ATtiny412](https://www.digikey.com/product-detail/en/microchip-technology/ATTINY412-SSFR/ATTINY412-SSFRCT-ND),  [ATtiny45](http://www.digikey.com/product-detail/en/ATTINY45V-10SU/ATTINY45V-10SU-ND)
-    - [ATtiny1614](https://www.digikey.com/product-detail/en/microchip-technology/ATTINY1614-SSNR/ATTINY1614-SSNRCT-ND), [ATtiny44](http://www.digikey.com/product-detail/en/ATTINY44A-SSU/ATTINY44A-SSU-ND) ![ATtiny1614 Arduino pinout](../images/05_attiny1614_ard-pinout.gif)
+    - [ATtiny1614](https://www.digikey.com/product-detail/en/microchip-technology/ATTINY1614-SSNR/ATTINY1614-SSNRCT-ND), [ATtiny44](http://www.digikey.com/product-detail/en/ATTINY44A-SSU/ATTINY44A-SSU-ND)
     - [ATtiny3216](https://www.digikey.com/product-detail/en/microchip-technology/ATTINY3216-SFR/ATTINY3216-SFRCT-ND), [ATmega328](https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA328PB-AU/5638812)
    - ARM
      - [D11C](https://www.digikey.com/products/en?keywords=ATSAMD11C14A-SSUTCT-ND), [D11D](https://www.digikey.com/products/en?keywords=ATSAMD11D14A-SSUTCT-ND)
