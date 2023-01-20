@@ -213,6 +213,8 @@
   - [hello.ftdi.45](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.interior.png) pin re-use<br>
         [ports](http://academy.cba.mit.edu/classes/embedded_programming/portwrite.html) [port.c](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.port.c) [port.make](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.port.make) [port.ino](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.port.ino) [port.write.ino](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.port.write.ino)<br>
         [echo.ino](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.echo.ino) [echo.serial.ino](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.echo.serial.ino) [video](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.45.echo.mp4)
+  - Pinout (for Arduino IDE)
+    ![ATtiny85 pinout](../images/05_attiny85_ard-pinout.jfif)
 
 - [ATtiny1614](http://academy.cba.mit.edu/classes/embedded_programming/t1614/ATtiny1614-DataSheet-DS40001995B.pdf)
   - [hello.t1614.echo](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/t1614/hello.t1614.echo.interior.png)<br>
@@ -222,6 +224,8 @@
 
 - [ATtiny44](http://academy.cba.mit.edu/classes/embedded_programming/8183s.pdf)
   - [hello.ftdi.44](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.components.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/hello.ftdi.44.interior.png)
+  - Pinout (for Arduino IDE)
+    ![ATtiny84 pinout](../images/05_attiny84_ard-pinout.jfif)
 
 - [ATSAMD11C](http://academy.cba.mit.edu/classes/embedded_programming/D11C/atmel-42363-sam-d11_datasheet.pdf)
   - [hello.D11C.blink](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.interior.png)<br>
