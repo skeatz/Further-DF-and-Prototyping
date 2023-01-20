@@ -230,6 +230,7 @@
 - [ATSAMD11C](http://academy.cba.mit.edu/classes/embedded_programming/D11C/atmel-42363-sam-d11_datasheet.pdf)
   - [hello.D11C.blink](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.traces.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.interior.png)<br>
         [blink.c](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.c) [blink.make](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.make) [bootloader](https://github.com/mattairtech/ArduinoCore-samd/blob/master/bootloaders/zero/binaries/sam_ba_Generic_D11C14A_SAMD11C14A.bin) [blink.ino](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.ino) [video](http://academy.cba.mit.edu/classes/embedded_programming/D11C/hello.D11C.blink.mp4)
+  - [Pin reference for Arduino IDE](https://github.com/qbolsee/ArduinoCore-fab-sam/tree/master/variants/Generic_D11C14A)
 
 - Interpreters
   - [AVRSH](http://www.instructables.com/id/AVRSH-A-Command-Interpreter-Shell-for-ArduinoAVR/)
