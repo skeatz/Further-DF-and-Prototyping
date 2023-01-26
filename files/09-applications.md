@@ -109,10 +109,11 @@
    - [More LED Control](https://pythonforundergradengineers.com/python-arduino-potentiometer.html)
    - [PySimpleGUI RGB led](https://github.com/paelzer/Arduino-RGB-GUI-control)
    - [PySimpleGUI Robot vehicle](https://funprojects.blog/2020/02/18/pysimplegui-quick-and-easy-interfaces/)
+   - [PySimpleGUI Stripchart](https://coolum001.github.io/stripchartgui.html)
    - [PyFirmata](https://realpython.com/arduino-python/)
    - [PyFirmata - Getting Started](https://realpython.com/arduino-python/)
- other useful links
-   = [ITP Physical Computing](https://itp.nyu.edu/physcomp/lessons/)
+- other useful links
+   - [ITP Physical Computing](https://itp.nyu.edu/physcomp/lessons/)
    - [ITP Physical Computing - Labs](https://itp.nyu.edu/physcomp/lessons/)
    - [Processing - Electronics](https://processing.org/tutorials/electronics)
    - [Makeability](https://makeabilitylab.github.io/physcomp/communication/serial-intro.html)
