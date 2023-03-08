@@ -2,7 +2,7 @@
 
 ## Quick References
 - [Introduction to CNC](https://www.3dhubs.com/knowledge-base/cnc-machining-manufacturing-technology-explained/)
-- [FablabSP CNC training materials](https://esp.sp.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_51997_1&content_id=_1547283_1)
+- [FablabSP CNC training materials](https://splms.polite.edu.sg/d2l/le/lessons/94979/lessons/3648077)
 - [Makehaven CNC Milling I](https://docs.google.com/presentation/d/e/2PACX-1vQDCw06YwtPZXwY7lXZ5PmvVnK-_EOi2mXdK9fskMEipqkx9qXAdsPdtYPEdQXGj_RGMiMTxovjSRQo/pub?start=false&loop=false&delayms=3000#slide=id.p)
 - [Makehaven CNC Milling II](https://docs.google.com/presentation/d/e/2PACX-1vQRnxj6gtvdpeoyxN-pd57x2Vbmz-79GqDKTcKUtWiQCUsRXuskwm3iiYPfCMugeHZOVaK1b3X5sf1F/pub?start=false&loop=false&delayms=3000#slide=id.p)
 
@@ -14,7 +14,7 @@
 ## machines
 - [[Shaper](https://www.shapertools.com/)
 - [ShopBot](https://www.shopbottools.com/)
-- [EAS](http://www.im-machinery-asia.com.sg/versatil-125025002750-2/)
+- [EAS](http://panamech.com.my/im/versatile2500.htm)
 - [Onsrud](https://www.cronsrud.com/cnc.html)
 - [Haas](https://www.haascnc.com/index.html)
 - [Fellesverkstedet](https://github.com/fellesverkstedet/fabricatable-machines)
